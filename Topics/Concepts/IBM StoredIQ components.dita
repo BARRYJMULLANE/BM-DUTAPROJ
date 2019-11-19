@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="IBM_StoredIQ_components">
+    <title>IBM StoredIQ Components</title>
+    <shortdesc>The IBM StoredIQ solution consists of these components: the application stack, the
+        gateway, the dataserver, and optionally the Elasticsearch cluster.</shortdesc><shortdesc/>
+    <conbody>
+        <p></p>
+    </conbody>
+    <section>
+        <title>
+            Solution components
+       </title>
+        <p>IBM StoredIQ provides three solution components: the gateway, data servers, and application stack
+            (AppStack).</p>
+    </section>
+  
+    <section>
+        <title>Gateway</title>
+        <p>The gateway communicates between the data servers and the application stack. The application stack
+            polls the gateway for information about the data on the data servers. The data servers push the
+            information to the gateway.</p>
+    </section>
+    <section>
+        <title>Data servers</title>
+    </section>
+</concept>
