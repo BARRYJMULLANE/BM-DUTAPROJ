@@ -15,5 +15,6 @@
     </meta>
     <projectTree name="newProject.xpr">
         <folder path="."/>
+        <file name="Topics/Concepts/temp/Planning_for_deployment.dita"/>
     </projectTree>
 </project>

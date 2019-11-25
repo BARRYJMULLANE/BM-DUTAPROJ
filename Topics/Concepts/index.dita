@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="index">
+<title>index</title>
+<shortdesc>index 1</shortdesc>
+    <prolog>
+        <copyright>
+            <copyryear year="2001,2019"/>
+            <copyrholder>Copyright of IBM CORP</copyrholder>
+        </copyright>
+    </prolog>
+<prolog>
+    <metadata>
+        <keywords id="inl">
+            <keyword>
+            </keyword>
+            <indexterm>
+                a
+            <indexterm>
+                action <u>4</u>
+            </indexterm>
+            <indexterm>
+                appstack <u>1</u>
+            </indexterm>
+            </indexterm>
+                <indexterm>
+                    c
+                    <indexterm>components of the IBM StoredIQ solution <u>1</u></indexterm>
+                </indexterm>
+            <indexterm>
+               D
+                <indexterm>Data Server dashboard <u>1</u></indexterm>
+                <indexterm>data sources <u>10</u></indexterm>
+                <indexterm>Data Workbench
+                <index-see>about <u>5</u></index-see>
+                <index-see>potential users<u>5</u></index-see>
+                </indexterm>
+                <indexterm>default open ports <u>10</u></indexterm>
+                <indexterm>deployment planning <u>8</u></indexterm>
+                <indexterm>Desktop Agent <u>1</u></indexterm>
+            </indexterm>
+            <indexterm>
+                e
+                <indexterm>exceptions <u>4</u></indexterm>
+            </indexterm>
+            <indexterm>
+                i
+                <indexterm>IBM StoredIQ <u>1</u></indexterm>
+                <indexterm>install
+                <index-see>application stack <u>31</u></index-see></indexterm>
+            </indexterm>
+            <indexterm>
+                <indexterm>open ports <u>10</u></indexterm>
+                <indexterm>
+                    Open Virtual Appliance (OVA) <u>8</u></indexterm>
+            </indexterm>
+            
+        </keywords>
+    </metadata>
+</prolog>
+<conbody>
+    <p></p>
+</conbody>
+</concept>

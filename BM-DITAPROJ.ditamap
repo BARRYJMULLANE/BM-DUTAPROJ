@@ -2,23 +2,33 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>
-        IBM Stored IQ Deployment and Configuration Guide
+        IBM StoredIQ Deployment and Configuration Guide
     </title>
+    <topicmeta>
+        <prodinfo>
+            <prodname>IBM Stored IQ</prodname>
+            <vrmlist>
+                <vrm version="7.6.0.19"/>
+            </vrmlist>
+            <brand>IBM</brand>
+            <prognum>5724M86</prognum>
+        </prodinfo>
+    </topicmeta>
     <topicref href="Topics/Concepts/About_this_publication.dita" navtitle="About this publication">
-        <topicref navtitle="IBM StoredIQ product library"></topicref>
-        <topicref navtitle="Contacting IBM StoredIQ customer support"></topicref>
+        <topicref href="Topics/Concepts/IBM%20StoredIQ%20components.dita" navtitle="IBM StoredIQ product library"></topicref>
+        <topicref href="Topics/Concepts/About_this_publication.dita" navtitle="Contacting IBM StoredIQ customer support"></topicref>
     </topicref>
-    <topicref navtitle="IBM StoredIQ components.">
+    <topicref href="Topics/Concepts/IBM%20StoredIQ%20components.dita" navtitle="IBM StoredIQ components.">
         <topicref navtitle="Solution components"></topicref>
         <topicref navtitle="Applications of IBM StoredIQ"></topicref>
     </topicref>
-    <topicref navtitle="Planning for deployment">
+    <topicref href="Topics/Concepts/temp/Planning_for_deployment.dita" navtitle="Planning for deployment">
         <topicref navtitle="Open Virtual Appliance (OVA) configuration requirements"></topicref>
         <topicref navtitle="Network and port requirements"></topicref>
         <topicref navtitle="Environment sizing guidelines"></topicref>
-        <topicref navtitle="Stack-provisioning prerequisites."></topicref>
-        <topicref navtitle="License usage metrics"></topicref>
-        <topicref navtitle="Security"></topicref>
+        <topicref href="Topics/Concepts/Planning_for_deployment_Stack-provisioningprerequisites.dita" navtitle="Stack-provisioning prerequisites."></topicref>
+        <topicref href="Topics/Concepts/Planning_for_deployment_Licenceusuagemetrics.dita" navtitle="License usage metrics"></topicref>
+        <topicref href="Topics/Concepts/Planning_for_deployment_security.dita" navtitle="Security"></topicref>
     </topicref>
     <topicref navtitle="Deploying IBM StoredIQ">
         <topicref navtitle="Deploying the virtual appliances"></topicref>
@@ -26,4 +36,25 @@
     </topicref>
     <topicref navtitle="Index">
     </topicref>
+    <topichead navtitle="Glossary">
+        <topichead navtitle="a">
+            <topicref href="Topics/Glossary/Glossary.dita#application_stack"></topicref>
+            <topicref href="Topics/Glossary/Glossary.dita#Auto-classification"></topicref>
+        </topichead>
+        <topichead navtitle="c">
+            <topicref href="Topics/Glossary/Glossary.dita#Cartridges"></topicref>
+            <topicref href="Topics/Glossary/Glossary.dita#Connector_API_SDK"></topicref>
+        </topichead>
+        <topichead navtitle="d"></topichead>
+        <topicref href="Topics/Glossary/Glossary.dita#DataServers"></topicref>
+        <topicref href="Topics/Glossary/Glossary.dita#DataServer_Classic"></topicref>
+        <topicref href="Topics/Glossary/Glossary.dita#DataServer_Distributed"></topicref>
+    </topichead>
+    <topichead navtitle="g">
+        <topicref href="Topics/Glossary/Glossary.dita#Gateway"></topicref>
+    </topichead>
+    <topichead navtitle="i">
+        <topicref href="Topics/Glossary/Glossary.dita#IBM_StoredIQ_Insights"></topicref>
+    </topichead>
+    <mapref href="Topics/Concepts/indexproj2.ditamap"></mapref>
 </map>

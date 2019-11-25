@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="Planning_for_deployment">
+    <title><overline>Planning for deployment</overline></title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>When you plan a deployment of IBM StoredIQ, evaluate several infrastructure considerations.</p>
+        <p>In addition to the information in this section, review the requirements detailed in the IBM Software
+            Product Compatibility Reports (SPCR) tool at: <xref href="https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/softwareReqsForProduct?deliverableId=CC1291B0F4AF11E3ACBD4447721DA353" format="html" scope="external"><u>Software Product Compatibility Reports: StoredIQ 7.6</u></xref>
+         </p>
+        <p>If you plan to use IBM StoredIQ for Legal)identification and Collection to create and manage data boxes
+            and data requests that are to be ful³lled by IBM StoredIQ, also check the system requirements for
+            StoredIQ for Legal at: <xref href="https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/softwareReqsForProduct?deliverableId=8A0331A0C50D11E58D9C0D684F363D68" format="html" scope="external"><u>Software Product Compatibility Reports: StoredIQ for Legal 2.0.3</u></xref> 
+        </p>
+        <section>
+            <title><b>Generate customized reports with the SPCR tool</b></title>
+            <p>Go to the page at <xref href="https://www.ibm.com/software/reports/compatibility/clarity/index.html" format="html" scope="external"><u>Software Product Compatibility Reports</u></xref> to create a high-level report for supported
+                operating systems, related software, hypervisors, and supported translations for any product. You can
+                also create an in-depth report to get detailed system requirements, hardware requirements, and end of
+                service information for each product. You can search for a product in all of the report types and reports
+                are generated based on your query values.</p>
+            <p>The following report types are the most commonly generated reports from software product compatibility
+                reports:
+            </p>
+        </section>
+        <section>
+            <title><b>Detailed system requirements</b></title>
+            <p>When you select your product version for the detailed system requirements report, you can set a
+                report filter for <b>Operating system platforms, Product components,</b> and <b>Capabilities,</b> including
+                prerequisites and support software. After you view the report, you can save it as a URL to generate
+                anytime or download it as a PDF.</p>
+        </section>
+        <section>
+            <title>Hardware requirements</title>
+            <p>When you select your product version for the hardware requirements report, you can set a report ³lter
+                by the <b>Operating system families</b> option. Set the operating system ³lter by selecting some or all of
+                the operating systems that are supported by your product. After you view the report, you can save it
+                as a URL to generate anytime or download it as a PDF.
+            </p>
+        </section>
+        <section>
+            <title>End of service</title>
+            <p>The end of service report shows the service window of the products that you specify over an eight-
+               year span. For example, you can find out when your product is scheduled to go out of service.</p>
+        </section>
+     <section>
+
+        <title><b><u>Open Virtual Appliance (OVA) configuration requirements</u></b></title>
+            <p>IBM StoredIQ is deployed as virtual appliances and is supported in VMware ESXi 5.0 (all ³x pack levels) or
+                VMware ESXi 6.0 (all ³x pack levels) environments. You must have a virtual infrastructure that meets the
+                IBM StoredIQ hardware requirements.
+            </p>
+     </section>
+        <section>
+            <title><b>Application stack</b></title>
+            <p>
+              <ul>
+                  <li></li>
+                  <li>vCPU: 2</li>
+                  <li>Memory: 4 GB</li>
+                  <li>Storage
+                  <ul>
+                      <li>Primary disk (vmdisk1): 21GB</li>
+                      <li>Data disk (vmdisk2): 10 GB</li>
+                  </ul>
+                  </li>
+              </ul>
+            </p>
+        </section>
+       
+       <section>
+           <title>DataServer - Classic</title>
+           <p>
+               <ul>
+                   <li>vCPU: 4
+                       Even though increasing the number of vCPUs increases performance, the actual bene³ts depend on
+                       whether the speci³c host is oversubscribed or not.</li>
+                   <li>Memory: 16 GB
+                       While the minimum value works under light-load condition, as the load increases, the data server
+                       quickly starts using swap space. For high load situations, increasing RAM beyond 16 GB can bene³t
+                       performance. Monitoring swap usage can provide insight.
+                   </li>
+                   <li> Storage:</li>
+
+               </ul>
+           </p>
+           <p>                       – Primary disk (vmdisk1, SCSI 0:0): Default is 150 GB
+               This virtual disk has an associated VMDK that contains the IBM StoredIQ operating code. Do not
+               change its size.</p>
+           <p><b>Atteon:</b> If you delete the primary disk, you delete the operating system, and the IBM
+               StoredIQ software; the virtual machine might need to be scrapped.</p>
+           <p>– Data disk (vmdisk2, SCSI 0:1): Default is 2 TB</p>
+           <p>This virtual disk can be resized according to expectations on the amount of harvest data to be
+               stored. For purposes of estimation, the index storage requirement for metadata is about 30 GB
+               per TB of managed source data. Full-text indexing requires an extra 170 GB per TB. Therefore,
+               the default data disk size is targeted for managing 10 TB of source information.</p>
+           <p>– Swap disk (vmdisk3, SCSI 0:2): Default is 40 GB</p>
+           <p>When under load, the data server can use much RAM; therefore, having ample swap space is
+               prudent. The minimum swap size is equal to the amount of RAM con³gured for the virtual
+               machine. For best performance under load, place this disk on the highest speed data store
+               available to the host.</p>
+           <p>The general size limits for a data server are 150 million objects or 500 de³ned volumes, whichever
+               limit is reached ³rstN Assuming an average object size of 200 KB equals about 30 TB of managed
+               storage across 30 volumes of 5 million objects each, the index storage requirement for metadata on
+               ~30 TB of storage that contains uncompressed general of³ce documents is ~330 GB (11 GB per TB).
+               Add 100 GB per TB of managed storage for full-text or snippet index. For example, to support 30 TB
+               of storage that is indexed for metadata, you need 8 TB indexed for full-text search and extracted text
+               (snippet cache) of 8 TB for auto-classification. A total of 1.9 TB of storage is required (metadata: 330
+               GB, full-text: 800 GB, snippet cache: 800 GB).</p>
+           <p>Data-server performance is impacted by the IOPS available from the storage subsystem. For each
+               data server under maximum workload, at least 650 IOPS generally delivers acceptable performance.
+               In the situations where there is a high load on the system, the IOPS that is used can reach up to 7000
+               with main write operations.</p>
+       </section>
+        <section>
+            <title>DataServer - Distributed</title>
+            <p>
+                <ul>
+                <li>vCPU: 4</li>
+                    <li>Memory: 16 GB</li>
+                    <li>Storage:</li>
+                </ul>
+            </p>
+                <div>-Primary disk (vmdisk1, SCSI 0:0): Default is 150 GB</div>
+                <div>– Data disk (vmdisk2, SCSI 0:1): Default is 2 TB</div>
+                <div>– Swap disk (vmdisk3, SCSI 0:2): Default is 40 GB</div>
+            <p>If you deploy this type of data server, you must also deploy an Elasticsearch cluster with at least one
+                node. If you deploy a cluster with more nodes, each of the Elasticsearch nodes must meet the listed
+                requirements.</p>
+        </section>
+        <section>
+            <title>Each Elasticsearch node</title>
+            <ul>
+                <li>vCPU: 1</li>
+                <li>Memory: 32 GB</li>
+                <li>Storage:</li>
+            </ul>
+            <div>– Primary disk (vmdisk1): 100 GB</div>
+            <div>- Data disk (vmdisk2): 1 TB</div>
+            <p>The required memory depends on the index size that is handled by the data node. For a better
+                performance, consider increasing the memory. The total memory available to the node must be
+                distributed between the host operating system, the Elasticsearch java heap space, and the kernel ³le
+                system caches. For example, if the system has 32 GB memory, 2 GB must be allocated for the host
+                operating system, 15 GB for the java heap space, and the remaining 15 GB for the ³le system caches.</p>
+            <p>The data disk (vmdisk2) can be resized according to expectations on the amount of harvest data to be
+                stored.</p>
+        </section>
+        
+    </conbody>
+</concept>

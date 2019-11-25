@@ -1,0 +1,3 @@
+define(function () {
+return ["Topics/Concepts/About_this_publication.html@@@About this publication@@@IBM StoredIQ Deployment and Configuration Guide provides information about how to plan, deploy, and configure the IBM StoredIQ product...","Topics/Concepts/IBM StoredIQ components.html@@@IBM StoredIQ Components@@@The IBM StoredIQ solution consists of these components: the application stack, the gateway, the dataserver, and optionally the Elasticsearch cluster..."];
+});

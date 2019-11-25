@@ -1,0 +1,1 @@
+define(function() { return [{"appname":"", "appid":"About_this_publication", "path":"Topics/Concepts/About_this_publication.html"},{"appname":"", "appid":"IBM_StoredIQ_components", "path":"Topics/Concepts/IBM%20StoredIQ%20components.html"}]});
