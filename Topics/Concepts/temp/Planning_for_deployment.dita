@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="Planning_for_deployment">
-    <title><overline>Planning for deployment</overline></title>
-    <shortdesc></shortdesc>
+    <title>Planning for deployment</title>
     <prolog>
         <copyright>
             <copyryear year="2001,2019"/>
@@ -61,7 +60,6 @@
             <title><b>Application stack</b></title>
             <p>
               <ul>
-                  <li></li>
                   <li>vCPU: 2</li>
                   <li>Memory: 4 GB</li>
                   <li>Storage
@@ -93,7 +91,7 @@
            <image conref="att.GIF"></image> <p>                       – Primary disk (vmdisk1, SCSI 0:0): Default is 150 GB
                This virtual disk has an associated VMDK that contains the IBM StoredIQ operating code. Do not
                change its size.</p>
-           <p><b>Atteon:</b> If you delete the primary disk, you delete the operating system, and the IBM
+           <p><b>Attention:</b> If you delete the primary disk, you delete the operating system, and the IBM
                StoredIQ software; the virtual machine might need to be scrapped.</p>
            <p>– Data disk (vmdisk2, SCSI 0:1): Default is 2 TB</p>
            <p>This virtual disk can be resized according to expectations on the amount of harvest data to be

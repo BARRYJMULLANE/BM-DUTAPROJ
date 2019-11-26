@@ -22,20 +22,19 @@
         <topicref navtitle="Solution components"></topicref>
         <topicref navtitle="Applications of IBM StoredIQ"></topicref>
     </topicref>
-    <topicref href="Topics/Concepts/temp/Planning_for_deployment.dita" navtitle="Planning for deployment">
-        <topicref navtitle="Open Virtual Appliance (OVA) configuration requirements"></topicref>
-        <topicref navtitle="Network and port requirements"></topicref>
-        <topicref navtitle="Environment sizing guidelines"></topicref>
+    <topicref href="Topics/Concepts/temp/Planning_for_deployment.dita#Planning_for_deployment" navtitle="Planning for deployment">
+        <topicref navtitle= "Open Virtual Appliance (OVA) configuration requirements"></topicref>
+        <topicref href="Topics/Concepts/Planning_for_deployment_networkandportrequirements.dita" navtitle="Network and port requirements"></topicref>
+        <topicref href="Topics/Concepts/Planning_for_deployment_Enviromentsizingguidelines.dita" navtitle="Environment sizing guidelines"></topicref>
         <topicref href="Topics/Concepts/Planning_for_deployment_Stack-provisioningprerequisites.dita" navtitle="Stack-provisioning prerequisites."></topicref>
         <topicref href="Topics/Concepts/Planning_for_deployment_Licenceusuagemetrics.dita" navtitle="License usage metrics"></topicref>
         <topicref href="Topics/Concepts/Planning_for_deployment_security.dita" navtitle="Security"></topicref>
     </topicref>
-    <topicref navtitle="Deploying IBM StoredIQ">
-        <topicref navtitle="Deploying the virtual appliances"></topicref>
-        <topicref navtitle="Deploying IBM StoredIQ on Microsoft Hyper-V"></topicref>
+    <topicref href="Topics/Concepts/Deploying_IBM_StoredIQ.dita" navtitle="Deploying IBM StoredIQ">
+        <topicref href="Topics/Concepts/Deploying_IBM_StoredIQ_Deployingthevirtualappliances.dita" navtitle="Deploying the virtual appliances"></topicref>
+        <topicref href="Topics/Concepts/Deploying_IBM-StoredIq_DeployingIBMStoredIQonMicrosoftHyper-V.dita" navtitle="Deploying IBM StoredIQ on Microsoft Hyper-V"></topicref>
     </topicref>
-    <topicref navtitle="Index">
-    </topicref>
+   
     <topichead navtitle="Glossary">
         <topichead navtitle="a">
             <topicref href="Topics/Glossary/Glossary.dita#application_stack"></topicref>

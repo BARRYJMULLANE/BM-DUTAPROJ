@@ -1,1 +1,164 @@
-<?xml version="1.0" encoding="UTF-8"?><toc xmlns:toc="http://www.oxygenxml.com/ns/webhelp/toc" xmlns="http://www.oxygenxml.com/ns/webhelp/toc" xmlns:xhtml="http://www.w3.org/1999/xhtml"><title><span xmlns="http://www.w3.org/1999/xhtml" class="title"> IBM Stored IQ Deployment and Configuration Guide </span></title><topic href="Topics/Concepts/About_this_publication.html" data-id="About_this_publication" wh-toc-id="About_this_publication-d62e11"><title>About this publication</title><shortdesc><p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">IBM StoredIQ Deployment and Configuration Guide provides information about how to plan, deploy, and         configure the IBM StoredIQ product.</p></shortdesc><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="About_this_publication"></resourceid><navtitle class="- topic/navtitle ">About this publication</navtitle><?ditaot gentext?><linktext class="- map/linktext ">About this publication</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">IBM StoredIQ Deployment and Configuration Guide provides information about how to plan, deploy, and         configure the IBM StoredIQ product.</shortdesc></topicmeta><topic href="Topics/Concepts/IBM%20StoredIQ%20components.html" data-id="IBM_StoredIQ_components" wh-toc-id="IBM_StoredIQ_components-d62e22"><title>IBM StoredIQ Components</title><shortdesc><p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">The IBM StoredIQ solution consists of these components: the application stack, the         gateway, the dataserver, and optionally the Elasticsearch cluster.</p></shortdesc><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="IBM_StoredIQ_components"></resourceid><navtitle class="- topic/navtitle ">IBM StoredIQ Components</navtitle><?ditaot gentext?><linktext class="- map/linktext ">IBM StoredIQ Components</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The IBM StoredIQ solution consists of these components: the application stack, the         gateway, the dataserver, and optionally the Elasticsearch cluster.</shortdesc></topicmeta></topic><topic href="javascript:void(0)" wh-toc-id="tocId-d62e33"><title>Contacting IBM StoredIQ customer support</title></topic></topic><topic href="javascript:void(0)" wh-toc-id="tocId-d62e35"><title>IBM StoredIQ components.</title><topic href="javascript:void(0)" wh-toc-id="tocId-d62e36"><title>Solution components</title></topic><topic href="javascript:void(0)" wh-toc-id="tocId-d62e37"><title>Applications of IBM StoredIQ</title></topic></topic><topic href="javascript:void(0)" wh-toc-id="tocId-d62e39"><title>Planning for deployment</title><topic href="javascript:void(0)" wh-toc-id="tocId-d62e40"><title>Open Virtual Appliance (OVA) configuration requirements</title></topic><topic href="javascript:void(0)" wh-toc-id="tocId-d62e41"><title>Network and port requirements</title></topic><topic href="javascript:void(0)" wh-toc-id="tocId-d62e42"><title>Environment sizing guidelines</title></topic><topic href="javascript:void(0)" wh-toc-id="tocId-d62e43"><title>Stack-provisioning prerequisites.</title></topic><topic href="javascript:void(0)" wh-toc-id="tocId-d62e44"><title>License usage metrics</title></topic><topic href="javascript:void(0)" wh-toc-id="tocId-d62e45"><title>Security</title></topic></topic><topic href="javascript:void(0)" wh-toc-id="tocId-d62e47"><title>Deploying IBM StoredIQ</title><topic href="javascript:void(0)" wh-toc-id="tocId-d62e48"><title>Deploying the virtual appliances</title></topic><topic href="javascript:void(0)" wh-toc-id="tocId-d62e49"><title>Deploying IBM StoredIQ on Microsoft Hyper-V</title></topic></topic><topic href="javascript:void(0)" wh-toc-id="tocId-d62e52"><title>Index</title></topic></toc>
+<?xml version="1.0" encoding="UTF-8"?><toc xmlns:toc="http://www.oxygenxml.com/ns/webhelp/toc" xmlns="http://www.oxygenxml.com/ns/webhelp/toc" xmlns:xhtml="http://www.w3.org/1999/xhtml"><title><span xmlns="http://www.w3.org/1999/xhtml" class="title"> IBM StoredIQ Deployment and Configuration Guide </span></title><topicmeta>
+        <prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">IBM Stored IQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"></vrm>
+            </vrmlist>
+            <brand class="- topic/brand ">IBM</brand>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+        </prodinfo>
+    </topicmeta><topic href="Topics/Concepts/About_this_publication.html" data-id="About_this_publication" wh-toc-id="About_this_publication-d62e31"><title>About this publication</title><shortdesc><p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">IBM StoredIQ Deployment and Configuration Guide provides information about how to plan, deploy, and         configure the IBM StoredIQ product.</p></shortdesc><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="About_this_publication"></resourceid><navtitle class="- topic/navtitle ">About this publication</navtitle><?ditaot gentext?><linktext class="- map/linktext ">About this publication</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">IBM StoredIQ Deployment and Configuration Guide provides information about how to plan, deploy, and         configure the IBM StoredIQ product.</shortdesc><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">IBM Stored IQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"></vrm>
+            </vrmlist>
+            <brand class="- topic/brand ">IBM</brand>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+        </prodinfo></topicmeta><topic href="Topics/Concepts/IBM%20StoredIQ%20components.html" data-id="IBM_StoredIQ_components" wh-toc-id="IBM_StoredIQ_components-d62e58"><title>IBM StoredIQ Components</title><shortdesc><p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">The IBM StoredIQ solution consists of these components: the application stack, the         gateway, the dataserver, and optionally the Elasticsearch cluster.</p></shortdesc><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="IBM_StoredIQ_components"></resourceid><navtitle class="- topic/navtitle ">IBM StoredIQ Components</navtitle><?ditaot gentext?><linktext class="- map/linktext ">IBM StoredIQ Components</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The IBM StoredIQ solution consists of these components: the application stack, the         gateway, the dataserver, and optionally the Elasticsearch cluster.</shortdesc><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">IBM Stored IQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"></vrm>
+            </vrmlist>
+            <brand class="- topic/brand ">IBM</brand>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+        </prodinfo></topicmeta></topic><topic href="Topics/Concepts/About_this_publication_2.html" data-id="About_this_publication" wh-toc-id="About_this_publication-d62e85"><title>About this publication</title><shortdesc><p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">IBM StoredIQ Deployment and Configuration Guide provides information about how to plan, deploy, and         configure the IBM StoredIQ product.</p></shortdesc><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="About_this_publication"></resourceid><navtitle class="- topic/navtitle ">About this publication</navtitle><?ditaot gentext?><linktext class="- map/linktext ">About this publication</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">IBM StoredIQ Deployment and Configuration Guide provides information about how to plan, deploy, and         configure the IBM StoredIQ product.</shortdesc><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">IBM Stored IQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"></vrm>
+            </vrmlist>
+            <brand class="- topic/brand ">IBM</brand>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+        </prodinfo></topicmeta></topic></topic><topic href="Topics/Concepts/IBM%20StoredIQ%20components_2.html" data-id="IBM_StoredIQ_components" wh-toc-id="IBM_StoredIQ_components-d62e113"><title>IBM StoredIQ Components</title><shortdesc><p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">The IBM StoredIQ solution consists of these components: the application stack, the         gateway, the dataserver, and optionally the Elasticsearch cluster.</p></shortdesc><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="IBM_StoredIQ_components"></resourceid><navtitle class="- topic/navtitle ">IBM StoredIQ Components</navtitle><?ditaot gentext?><linktext class="- map/linktext ">IBM StoredIQ Components</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The IBM StoredIQ solution consists of these components: the application stack, the         gateway, the dataserver, and optionally the Elasticsearch cluster.</shortdesc><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">IBM Stored IQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"></vrm>
+            </vrmlist>
+            <brand class="- topic/brand ">IBM</brand>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+        </prodinfo></topicmeta><topic href="javascript:void(0)" wh-toc-id="tocId-d62e140"><title>Solution components</title></topic><topic href="javascript:void(0)" wh-toc-id="tocId-d62e141"><title>Applications of IBM StoredIQ</title></topic></topic><topic href="Topics/Concepts/temp/Planning_for_deployment.html#Planning_for_deployment" data-id="Planning_for_deployment" wh-toc-id="Planning_for_deployment-d62e143"><title>Planning for deployment</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="Planning_for_deployment"></resourceid><navtitle class="- topic/navtitle ">Planning for deployment</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Planning for deployment</linktext><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">IBM Stored IQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"></vrm>
+            </vrmlist>
+            <brand class="- topic/brand ">IBM</brand>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+        </prodinfo></topicmeta><topic href="javascript:void(0)" wh-toc-id="tocId-d62e167"><title>Open Virtual Appliance (OVA) configuration requirements</title></topic><topic href="Topics/Concepts/Planning_for_deployment_networkandportrequirements.html" wh-toc-id="tocId-d62e168"><title>Network and port requirements</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid=""></resourceid><navtitle class="- topic/navtitle ">Network and port requirements</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Network and port requirements</linktext><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">IBM Stored IQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"></vrm>
+            </vrmlist>
+            <brand class="- topic/brand ">IBM</brand>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+        </prodinfo></topicmeta></topic><topic href="Topics/Concepts/Planning_for_deployment_Enviromentsizingguidelines.html" data-id="Planning_for_deployment_Enviromentsizingguidelines" wh-toc-id="Planning_for_deployment_Enviromentsizingguidelines-d62e192"><title>Environment sizing guidelines</title><shortdesc><p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p></shortdesc><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="Planning_for_deployment_Enviromentsizingguidelines"></resourceid><navtitle class="- topic/navtitle ">Environment sizing guidelines</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Environment sizing guidelines</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "></shortdesc><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">IBM Stored IQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"></vrm>
+            </vrmlist>
+            <brand class="- topic/brand ">IBM</brand>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+        </prodinfo></topicmeta></topic><topic href="Topics/Concepts/Planning_for_deployment_Stack-provisioningprerequisites.html" data-id="Planning_for_deployment_Stack-provisioningprerequisites" wh-toc-id="Planning_for_deployment_Stack-provisioningprerequisites-d62e218"><title>Stack-provisioning prerequisites</title><shortdesc><p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p></shortdesc><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="Planning_for_deployment_Stack-provisioningprerequisites"></resourceid><navtitle class="- topic/navtitle ">Stack-provisioning prerequisites</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Stack-provisioning prerequisites</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "></shortdesc><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">IBM Stored IQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"></vrm>
+            </vrmlist>
+            <brand class="- topic/brand ">IBM</brand>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+        </prodinfo></topicmeta></topic><topic href="Topics/Concepts/Planning_for_deployment_Licenceusuagemetrics.html" wh-toc-id="tocId-d62e244"><title>License usage metrics</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid=""></resourceid><navtitle class="- topic/navtitle ">License usage metrics</navtitle><?ditaot gentext?><linktext class="- map/linktext ">License usage metrics</linktext><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">IBM Stored IQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"></vrm>
+            </vrmlist>
+            <brand class="- topic/brand ">IBM</brand>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+        </prodinfo></topicmeta></topic><topic href="Topics/Concepts/Planning_for_deployment_security.html" data-id="Planning_for_deployment_security" wh-toc-id="Planning_for_deployment_security-d62e268"><title>Security</title><shortdesc><p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p></shortdesc><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="Planning_for_deployment_security"></resourceid><navtitle class="- topic/navtitle ">Security</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Security</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "></shortdesc><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">IBM Stored IQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"></vrm>
+            </vrmlist>
+            <brand class="- topic/brand ">IBM</brand>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+        </prodinfo></topicmeta></topic></topic><topic href="Topics/Concepts/Deploying_IBM_StoredIQ.html" data-id="Deploying_IBM_StoredIQ" wh-toc-id="Deploying_IBM_StoredIQ-d62e296"><title>Deploying IBM StoredIQ</title><shortdesc><p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p></shortdesc><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="Deploying_IBM_StoredIQ"></resourceid><navtitle class="- topic/navtitle ">Deploying IBM StoredIQ</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Deploying IBM StoredIQ</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "></shortdesc><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">IBM Stored IQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"></vrm>
+            </vrmlist>
+            <brand class="- topic/brand ">IBM</brand>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+        </prodinfo></topicmeta><topic href="Topics/Concepts/Deploying_IBM_StoredIQ_Deployingthevirtualappliances.html" data-id="Deploying_IBM_StoredIQ_Deployingthevirtualappliances" wh-toc-id="Deploying_IBM_StoredIQ_Deployingthevirtualappliances-d62e322"><title>Deploying the virtual appliances</title><shortdesc><p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p></shortdesc><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="Deploying_IBM_StoredIQ_Deployingthevirtualappliances"></resourceid><navtitle class="- topic/navtitle ">Deploying the virtual appliances</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Deploying the virtual appliances</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "></shortdesc><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">IBM Stored IQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"></vrm>
+            </vrmlist>
+            <brand class="- topic/brand ">IBM</brand>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+        </prodinfo></topicmeta></topic><topic href="Topics/Concepts/Deploying_IBM-StoredIq_DeployingIBMStoredIQonMicrosoftHyper-V.html" wh-toc-id="tocId-d62e348"><title>Deploying IBM StoredIQ on Microsoft Hyper-V</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid=""></resourceid><navtitle class="- topic/navtitle ">Deploying IBM StoredIQ on Microsoft Hyper-V</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Deploying IBM StoredIQ on Microsoft Hyper-V</linktext><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">IBM Stored IQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"></vrm>
+            </vrmlist>
+            <brand class="- topic/brand ">IBM</brand>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+        </prodinfo></topicmeta></topic></topic><topic href="javascript:void(0)" wh-toc-id="tocId-d62e373"><title>Glossary</title><topic href="javascript:void(0)" wh-toc-id="tocId-d62e374"><title>a</title><topic href="Topics/Glossary/Glossary.html#application_stack" data-id="application_stack" wh-toc-id="application_stack-d62e375"><title>***</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="application_stack"></resourceid><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">IBM Stored IQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"></vrm>
+            </vrmlist>
+            <brand class="- topic/brand ">IBM</brand>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+        </prodinfo></topicmeta></topic><topic href="Topics/Glossary/Glossary.html#Auto-classification" data-id="Auto-classification" wh-toc-id="Auto-classification-d62e394"><title>***</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="Auto-classification"></resourceid><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">IBM Stored IQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"></vrm>
+            </vrmlist>
+            <brand class="- topic/brand ">IBM</brand>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+        </prodinfo></topicmeta></topic></topic><topic href="javascript:void(0)" wh-toc-id="tocId-d62e413"><title>c</title><topic href="Topics/Glossary/Glossary.html#Cartridges" data-id="Cartridges" wh-toc-id="Cartridges-d62e414"><title>***</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="Cartridges"></resourceid><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">IBM Stored IQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"></vrm>
+            </vrmlist>
+            <brand class="- topic/brand ">IBM</brand>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+        </prodinfo></topicmeta></topic><topic href="Topics/Glossary/Glossary.html#Connector_API_SDK" data-id="Connector_API_SDK" wh-toc-id="Connector_API_SDK-d62e433"><title>***</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="Connector_API_SDK"></resourceid><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">IBM Stored IQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"></vrm>
+            </vrmlist>
+            <brand class="- topic/brand ">IBM</brand>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+        </prodinfo></topicmeta></topic></topic><topic href="javascript:void(0)" wh-toc-id="tocId-d62e452"><title>d</title></topic><topic href="Topics/Glossary/Glossary.html#DataServers" data-id="DataServers" wh-toc-id="DataServers-d62e453"><title>***</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="DataServers"></resourceid><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">IBM Stored IQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"></vrm>
+            </vrmlist>
+            <brand class="- topic/brand ">IBM</brand>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+        </prodinfo></topicmeta></topic><topic href="Topics/Glossary/Glossary.html#DataServer_Classic" data-id="DataServer_Classic" wh-toc-id="DataServer_Classic-d62e472"><title>***</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="DataServer_Classic"></resourceid><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">IBM Stored IQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"></vrm>
+            </vrmlist>
+            <brand class="- topic/brand ">IBM</brand>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+        </prodinfo></topicmeta></topic><topic href="Topics/Glossary/Glossary.html#DataServer_Distributed" data-id="DataServer_Distributed" wh-toc-id="DataServer_Distributed-d62e491"><title>***</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="DataServer_Distributed"></resourceid><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">IBM Stored IQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"></vrm>
+            </vrmlist>
+            <brand class="- topic/brand ">IBM</brand>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+        </prodinfo></topicmeta></topic></topic><topic href="javascript:void(0)" wh-toc-id="tocId-d62e511"><title>g</title><topic href="Topics/Glossary/Glossary.html#Gateway" data-id="Gateway" wh-toc-id="Gateway-d62e512"><title>***</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="Gateway"></resourceid><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">IBM Stored IQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"></vrm>
+            </vrmlist>
+            <brand class="- topic/brand ">IBM</brand>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+        </prodinfo></topicmeta></topic></topic><topic href="javascript:void(0)" wh-toc-id="tocId-d62e532"><title>i</title><topic href="Topics/Glossary/Glossary.html#IBM_StoredIQ_Insights" data-id="IBM_StoredIQ_Insights" wh-toc-id="IBM_StoredIQ_Insights-d62e533"><title>***</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="IBM_StoredIQ_Insights"></resourceid><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">IBM Stored IQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"></vrm>
+            </vrmlist>
+            <brand class="- topic/brand ">IBM</brand>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+        </prodinfo></topicmeta></topic></topic></toc>

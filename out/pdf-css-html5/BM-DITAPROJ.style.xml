@@ -802,8 +802,6 @@
                                                   css:link="#unique_3"><css:leader pattern="."
                                                   /><css:target-counter url-fragment="unique_3"
                                                   /></css:after></div>
-                                            <div class="- map/shortdesc shortdesc"
-                                                css:display="none"/>
                                             <div class="- topic/prodinfo prodinfo"
                                                 css:display="none">
                                                 <div class="- topic/prodname prodname"
@@ -838,19 +836,20 @@
                                                 css:padding-right="0" css:padding-top="0">
                                                 <css:before css:display="inline"/>
                                                 <div class="- topic/navtitle navtitle"
-                                                  css:display="block" css:link="#d7e205"
-                                                  css:text-align-last="justify" href="#d7e205"
+                                                  css:display="block" css:link="#d7e202"
+                                                  css:text-align-last="justify" href="#d7e202"
                                                   ><css:before css:display="inline"
-                                                  css:link="#d7e205"/>Open Virtual Appliance (OVA)
+                                                  css:link="#d7e202"/>Open Virtual Appliance (OVA)
                                                   configuration requirements<css:after
-                                                  css:display="inline" css:link="#d7e205"
+                                                  css:display="inline" css:link="#d7e202"
                                                   ><css:leader pattern="."/><css:target-counter
-                                                  url-fragment="d7e205"/></css:after></div>
+                                                  url-fragment="d7e202"/></css:after></div>
                                             </div>
                                         </div>
                                         <div class="- map/topicref topicref" css:display="block"
                                             css:font-weight="normal" css:margin-bottom="0.5em"
                                             css:margin-left="2em" css:margin-top="0.5em"
+                                            href="Topics/Concepts/Planning_for_deployment_networkandportrequirements.dita"
                                             navtitle="Network and port requirements">
                                             <div class="- map/topicmeta topicmeta"
                                                 css:border-bottom-color="transparent"
@@ -864,23 +863,45 @@
                                                 css:margin-bottom="0" css:margin-left="0"
                                                 css:margin-right="0" css:margin-top="0"
                                                 css:padding-bottom="0" css:padding-left="0"
-                                                css:padding-right="0" css:padding-top="0">
+                                                css:padding-right="0" css:padding-top="0"
+                                                data-topic-id="">
                                                 <css:before css:display="inline"/>
+                                                <div appid="" class="- topic/resourceid resourceid"
+                                                  css:display="none" oxy-source="topic"/>
                                                 <div class="- topic/navtitle navtitle"
-                                                  css:display="block" css:link="#d7e206"
-                                                  css:text-align-last="justify" href="#d7e206"
+                                                  css:display="block"
+                                                  css:link="Topics/Concepts/Planning_for_deployment_networkandportrequirements.dita"
+                                                  css:text-align-last="justify"
+                                                  href="Topics/Concepts/Planning_for_deployment_networkandportrequirements.dita"
                                                   ><css:before css:display="inline"
-                                                  css:link="#d7e206"/>Network and port
-                                                  requirements<css:after css:display="inline"
-                                                  css:link="#d7e206"><css:leader pattern="."
-                                                  /><css:target-counter url-fragment="d7e206"
+                                                  css:link="Topics/Concepts/Planning_for_deployment_networkandportrequirements.dita"
+                                                  />Network and port requirements<css:after
+                                                  css:display="inline"
+                                                  css:link="Topics/Concepts/Planning_for_deployment_networkandportrequirements.dita"
+                                                  ><css:leader pattern="."/><css:target-counter
+                                                  url-fragment="Topics/Concepts/Planning_for_deployment_networkandportrequirements.dita"
                                                   /></css:after></div>
+                                                <div class="- topic/prodinfo prodinfo"
+                                                  css:display="none">
+                                                  <div class="- topic/prodname prodname"
+                                                  css:display="none">IBM Stored IQ</div>
+                                                  <div class="- topic/vrmlist vrmlist"
+                                                  css:display="none">
+                                                  <div class="- topic/vrm vrm" css:display="none"
+                                                  version="7.6.0.19"/>
+                                                  </div>
+                                                  <div class="- topic/brand brand"
+                                                  css:display="none">IBM</div>
+                                                  <div class="- topic/prognum prognum"
+                                                  css:display="none">5724M86</div>
+                                                </div>
                                             </div>
                                         </div>
                                         <div class="- map/topicref topicref" css:display="block"
                                             css:font-weight="normal" css:margin-bottom="0.5em"
                                             css:margin-left="2em" css:margin-top="0.5em"
-                                            navtitle="Environment sizing guidelines">
+                                            href="#unique_4"
+                                            navtitle="Environment sizing guidelines" type="concept">
                                             <div class="- map/topicmeta topicmeta"
                                                 css:border-bottom-color="transparent"
                                                 css:border-bottom-style="none"
@@ -893,23 +914,44 @@
                                                 css:margin-bottom="0" css:margin-left="0"
                                                 css:margin-right="0" css:margin-top="0"
                                                 css:padding-bottom="0" css:padding-left="0"
-                                                css:padding-right="0" css:padding-top="0">
+                                                css:padding-right="0" css:padding-top="0"
+                                                data-topic-id="Planning_for_deployment_Enviromentsizingguidelines">
                                                 <css:before css:display="inline"/>
+                                                <div
+                                                  appid="Planning_for_deployment_Enviromentsizingguidelines"
+                                                  class="- topic/resourceid resourceid"
+                                                  css:display="none" oxy-source="topic"/>
                                                 <div class="- topic/navtitle navtitle"
-                                                  css:display="block" css:link="#d7e207"
-                                                  css:text-align-last="justify" href="#d7e207"
+                                                  css:display="block" css:link="#unique_4"
+                                                  css:text-align-last="justify" href="#unique_4"
                                                   ><css:before css:display="inline"
-                                                  css:link="#d7e207"/>Environment sizing
+                                                  css:link="#unique_4"/>Environment sizing
                                                   guidelines<css:after css:display="inline"
-                                                  css:link="#d7e207"><css:leader pattern="."
-                                                  /><css:target-counter url-fragment="d7e207"
+                                                  css:link="#unique_4"><css:leader pattern="."
+                                                  /><css:target-counter url-fragment="unique_4"
                                                   /></css:after></div>
+                                                <div class="- map/shortdesc shortdesc"
+                                                  css:display="none"/>
+                                                <div class="- topic/prodinfo prodinfo"
+                                                  css:display="none">
+                                                  <div class="- topic/prodname prodname"
+                                                  css:display="none">IBM Stored IQ</div>
+                                                  <div class="- topic/vrmlist vrmlist"
+                                                  css:display="none">
+                                                  <div class="- topic/vrm vrm" css:display="none"
+                                                  version="7.6.0.19"/>
+                                                  </div>
+                                                  <div class="- topic/brand brand"
+                                                  css:display="none">IBM</div>
+                                                  <div class="- topic/prognum prognum"
+                                                  css:display="none">5724M86</div>
+                                                </div>
                                             </div>
                                         </div>
                                         <div class="- map/topicref topicref" css:display="block"
                                             css:font-weight="normal" css:margin-bottom="0.5em"
                                             css:margin-left="2em" css:margin-top="0.5em"
-                                            href="#unique_4"
+                                            href="#unique_5"
                                             navtitle="Stack-provisioning prerequisites."
                                             type="concept">
                                             <div class="- map/topicmeta topicmeta"
@@ -932,13 +974,13 @@
                                                   class="- topic/resourceid resourceid"
                                                   css:display="none" oxy-source="topic"/>
                                                 <div class="- topic/navtitle navtitle"
-                                                  css:display="block" css:link="#unique_4"
-                                                  css:text-align-last="justify" href="#unique_4"
+                                                  css:display="block" css:link="#unique_5"
+                                                  css:text-align-last="justify" href="#unique_5"
                                                   ><css:before css:display="inline"
-                                                  css:link="#unique_4"/>Stack-provisioning
+                                                  css:link="#unique_5"/>Stack-provisioning
                                                   prerequisites<css:after css:display="inline"
-                                                  css:link="#unique_4"><css:leader pattern="."
-                                                  /><css:target-counter url-fragment="unique_4"
+                                                  css:link="#unique_5"><css:leader pattern="."
+                                                  /><css:target-counter url-fragment="unique_5"
                                                   /></css:after></div>
                                                 <div class="- map/shortdesc shortdesc"
                                                   css:display="none"/>
@@ -1012,7 +1054,7 @@
                                         <div class="- map/topicref topicref" css:display="block"
                                             css:font-weight="normal" css:margin-bottom="0.5em"
                                             css:margin-left="2em" css:margin-top="0.5em"
-                                            href="#unique_5" navtitle="Security" type="concept">
+                                            href="#unique_6" navtitle="Security" type="concept">
                                             <div class="- map/topicmeta topicmeta"
                                                 css:border-bottom-color="transparent"
                                                 css:border-bottom-style="none"
@@ -1032,13 +1074,13 @@
                                                   class="- topic/resourceid resourceid"
                                                   css:display="none" oxy-source="topic"/>
                                                 <div class="- topic/navtitle navtitle"
-                                                  css:display="block" css:link="#unique_5"
-                                                  css:text-align-last="justify" href="#unique_5"
+                                                  css:display="block" css:link="#unique_6"
+                                                  css:text-align-last="justify" href="#unique_6"
                                                   ><css:before css:display="inline"
-                                                  css:link="#unique_5"/>Security<css:after
-                                                  css:display="inline" css:link="#unique_5"
+                                                  css:link="#unique_6"/>Security<css:after
+                                                  css:display="inline" css:link="#unique_6"
                                                   ><css:leader pattern="."/><css:target-counter
-                                                  url-fragment="unique_5"/></css:after></div>
+                                                  url-fragment="unique_6"/></css:after></div>
                                                 <div class="- map/shortdesc shortdesc"
                                                   css:display="none"/>
                                                 <div class="- topic/prodinfo prodinfo"
@@ -1060,8 +1102,9 @@
                                     </div>
                                     <div class="- map/topicref topicref" css:display="block"
                                         css:font-weight="bold" css:margin-bottom="0.5em"
-                                        css:margin-left="0" css:margin-top="0.5em" is-chapter="true"
-                                        navtitle="Deploying IBM StoredIQ">
+                                        css:margin-left="0" css:margin-top="0.5em" href="#unique_7"
+                                        is-chapter="true" navtitle="Deploying IBM StoredIQ"
+                                        type="concept">
                                         <div class="- map/topicmeta topicmeta"
                                             css:border-bottom-color="transparent"
                                             css:border-bottom-style="none"
@@ -1074,25 +1117,47 @@
                                             css:margin-bottom="0" css:margin-left="0"
                                             css:margin-right="0" css:margin-top="0"
                                             css:padding-bottom="0" css:padding-left="0"
-                                            css:padding-right="0" css:padding-top="0">
+                                            css:padding-right="0" css:padding-top="0"
+                                            data-topic-id="Deploying_IBM_StoredIQ">
                                             <css:before css:display="inline"/>
+                                            <div appid="Deploying_IBM_StoredIQ"
+                                                class="- topic/resourceid resourceid"
+                                                css:display="none" oxy-source="topic"/>
                                             <div class="- topic/navtitle navtitle"
-                                                css:display="block" css:link="#d7e286"
-                                                css:text-align-last="justify" href="#d7e286"
+                                                css:display="block" css:link="#unique_7"
+                                                css:text-align-last="justify" href="#unique_7"
                                                   ><css:before css:display="inline"
-                                                  css:link="#d7e286"><css:text>Chapter
+                                                  css:link="#unique_7"><css:text>Chapter
                                                   </css:text><css:counter name="toc-chapter"
                                                   value="4"/><css:text>.
                                                 </css:text></css:before>Deploying IBM
                                                   StoredIQ<css:after css:display="inline"
-                                                  css:link="#d7e286"><css:leader pattern="."
-                                                  /><css:target-counter url-fragment="d7e286"
+                                                  css:link="#unique_7"><css:leader pattern="."
+                                                  /><css:target-counter url-fragment="unique_7"
                                                   /></css:after></div>
+                                            <div class="- map/shortdesc shortdesc"
+                                                css:display="none"/>
+                                            <div class="- topic/prodinfo prodinfo"
+                                                css:display="none">
+                                                <div class="- topic/prodname prodname"
+                                                  css:display="none">IBM Stored IQ</div>
+                                                <div class="- topic/vrmlist vrmlist"
+                                                  css:display="none">
+                                                  <div class="- topic/vrm vrm" css:display="none"
+                                                  version="7.6.0.19"/>
+                                                </div>
+                                                <div class="- topic/brand brand" css:display="none"
+                                                  >IBM</div>
+                                                <div class="- topic/prognum prognum"
+                                                  css:display="none">5724M86</div>
+                                            </div>
                                         </div>
                                         <div class="- map/topicref topicref" css:display="block"
                                             css:font-weight="normal" css:margin-bottom="0.5em"
                                             css:margin-left="2em" css:margin-top="0.5em"
-                                            navtitle="Deploying the virtual appliances">
+                                            href="#unique_8"
+                                            navtitle="Deploying the virtual appliances"
+                                            type="concept">
                                             <div class="- map/topicmeta topicmeta"
                                                 css:border-bottom-color="transparent"
                                                 css:border-bottom-style="none"
@@ -1105,22 +1170,44 @@
                                                 css:margin-bottom="0" css:margin-left="0"
                                                 css:margin-right="0" css:margin-top="0"
                                                 css:padding-bottom="0" css:padding-left="0"
-                                                css:padding-right="0" css:padding-top="0">
+                                                css:padding-right="0" css:padding-top="0"
+                                                data-topic-id="Deploying_IBM_StoredIQ_Deployingthevirtualappliances">
                                                 <css:before css:display="inline"/>
+                                                <div
+                                                  appid="Deploying_IBM_StoredIQ_Deployingthevirtualappliances"
+                                                  class="- topic/resourceid resourceid"
+                                                  css:display="none" oxy-source="topic"/>
                                                 <div class="- topic/navtitle navtitle"
-                                                  css:display="block" css:link="#d7e287"
-                                                  css:text-align-last="justify" href="#d7e287"
+                                                  css:display="block" css:link="#unique_8"
+                                                  css:text-align-last="justify" href="#unique_8"
                                                   ><css:before css:display="inline"
-                                                  css:link="#d7e287"/>Deploying the virtual
+                                                  css:link="#unique_8"/>Deploying the virtual
                                                   appliances<css:after css:display="inline"
-                                                  css:link="#d7e287"><css:leader pattern="."
-                                                  /><css:target-counter url-fragment="d7e287"
+                                                  css:link="#unique_8"><css:leader pattern="."
+                                                  /><css:target-counter url-fragment="unique_8"
                                                   /></css:after></div>
+                                                <div class="- map/shortdesc shortdesc"
+                                                  css:display="none"/>
+                                                <div class="- topic/prodinfo prodinfo"
+                                                  css:display="none">
+                                                  <div class="- topic/prodname prodname"
+                                                  css:display="none">IBM Stored IQ</div>
+                                                  <div class="- topic/vrmlist vrmlist"
+                                                  css:display="none">
+                                                  <div class="- topic/vrm vrm" css:display="none"
+                                                  version="7.6.0.19"/>
+                                                  </div>
+                                                  <div class="- topic/brand brand"
+                                                  css:display="none">IBM</div>
+                                                  <div class="- topic/prognum prognum"
+                                                  css:display="none">5724M86</div>
+                                                </div>
                                             </div>
                                         </div>
                                         <div class="- map/topicref topicref" css:display="block"
                                             css:font-weight="normal" css:margin-bottom="0.5em"
                                             css:margin-left="2em" css:margin-top="0.5em"
+                                            href="Topics/Concepts/Deploying_IBM-StoredIq_DeployingIBMStoredIQonMicrosoftHyper-V.dita"
                                             navtitle="Deploying IBM StoredIQ on Microsoft Hyper-V">
                                             <div class="- map/topicmeta topicmeta"
                                                 css:border-bottom-color="transparent"
@@ -1134,49 +1221,39 @@
                                                 css:margin-bottom="0" css:margin-left="0"
                                                 css:margin-right="0" css:margin-top="0"
                                                 css:padding-bottom="0" css:padding-left="0"
-                                                css:padding-right="0" css:padding-top="0">
+                                                css:padding-right="0" css:padding-top="0"
+                                                data-topic-id="">
                                                 <css:before css:display="inline"/>
+                                                <div appid="" class="- topic/resourceid resourceid"
+                                                  css:display="none" oxy-source="topic"/>
                                                 <div class="- topic/navtitle navtitle"
-                                                  css:display="block" css:link="#d7e288"
-                                                  css:text-align-last="justify" href="#d7e288"
+                                                  css:display="block"
+                                                  css:link="Topics/Concepts/Deploying_IBM-StoredIq_DeployingIBMStoredIQonMicrosoftHyper-V.dita"
+                                                  css:text-align-last="justify"
+                                                  href="Topics/Concepts/Deploying_IBM-StoredIq_DeployingIBMStoredIQonMicrosoftHyper-V.dita"
                                                   ><css:before css:display="inline"
-                                                  css:link="#d7e288"/>Deploying IBM StoredIQ on
-                                                  Microsoft Hyper-V<css:after css:display="inline"
-                                                  css:link="#d7e288"><css:leader pattern="."
-                                                  /><css:target-counter url-fragment="d7e288"
-                                                  /></css:after></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="- map/topicref topicref" css:display="block"
-                                        css:font-weight="bold" css:margin-bottom="0.5em"
-                                        css:margin-left="0" css:margin-top="0.5em" is-chapter="true"
-                                        navtitle="Index">
-                                        <div class="- map/topicmeta topicmeta"
-                                            css:border-bottom-color="transparent"
-                                            css:border-bottom-style="none"
-                                            css:border-left-color="transparent"
-                                            css:border-left-style="none"
-                                            css:border-right-color="transparent"
-                                            css:border-right-style="none"
-                                            css:border-top-color="transparent"
-                                            css:border-top-style="none" css:display="block"
-                                            css:margin-bottom="0" css:margin-left="0"
-                                            css:margin-right="0" css:margin-top="0"
-                                            css:padding-bottom="0" css:padding-left="0"
-                                            css:padding-right="0" css:padding-top="0">
-                                            <css:before css:display="inline"/>
-                                            <div class="- topic/navtitle navtitle"
-                                                css:display="block" css:link="#d7e290"
-                                                css:text-align-last="justify" href="#d7e290"
-                                                  ><css:before css:display="inline"
-                                                  css:link="#d7e290"><css:text>Chapter
-                                                  </css:text><css:counter name="toc-chapter"
-                                                  value="5"/><css:text>.
-                                                  </css:text></css:before>Index<css:after
-                                                  css:display="inline" css:link="#d7e290"
+                                                  css:link="Topics/Concepts/Deploying_IBM-StoredIq_DeployingIBMStoredIQonMicrosoftHyper-V.dita"
+                                                  />Deploying IBM StoredIQ on Microsoft
+                                                  Hyper-V<css:after css:display="inline"
+                                                  css:link="Topics/Concepts/Deploying_IBM-StoredIq_DeployingIBMStoredIQonMicrosoftHyper-V.dita"
                                                   ><css:leader pattern="."/><css:target-counter
-                                                  url-fragment="d7e290"/></css:after></div>
+                                                  url-fragment="Topics/Concepts/Deploying_IBM-StoredIq_DeployingIBMStoredIQonMicrosoftHyper-V.dita"
+                                                  /></css:after></div>
+                                                <div class="- topic/prodinfo prodinfo"
+                                                  css:display="none">
+                                                  <div class="- topic/prodname prodname"
+                                                  css:display="none">IBM Stored IQ</div>
+                                                  <div class="- topic/vrmlist vrmlist"
+                                                  css:display="none">
+                                                  <div class="- topic/vrm vrm" css:display="none"
+                                                  version="7.6.0.19"/>
+                                                  </div>
+                                                  <div class="- topic/brand brand"
+                                                  css:display="none">IBM</div>
+                                                  <div class="- topic/prognum prognum"
+                                                  css:display="none">5724M86</div>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
                                     <div
@@ -1199,16 +1276,16 @@
                                             css:padding-right="0" css:padding-top="0">
                                             <css:before css:display="inline"/>
                                             <div class="- topic/navtitle navtitle"
-                                                css:display="block" css:link="#d7e292"
-                                                css:text-align-last="justify" href="#d7e292"
+                                                css:display="block" css:link="#d7e408"
+                                                css:text-align-last="justify" href="#d7e408"
                                                   ><css:before css:display="inline"
-                                                  css:link="#d7e292"><css:text>Chapter
+                                                  css:link="#d7e408"><css:text>Chapter
                                                   </css:text><css:counter name="toc-chapter"
-                                                  value="6"/><css:text>.
+                                                  value="5"/><css:text>.
                                                   </css:text></css:before>Glossary<css:after
-                                                  css:display="inline" css:link="#d7e292"
+                                                  css:display="inline" css:link="#d7e408"
                                                   ><css:leader pattern="."/><css:target-counter
-                                                  url-fragment="d7e292"/></css:after></div>
+                                                  url-fragment="d7e408"/></css:after></div>
                                         </div>
                                         <div
                                             class="+ map/topicref mapgroup-d/topichead topicref topichead"
@@ -1230,13 +1307,13 @@
                                                 css:padding-right="0" css:padding-top="0">
                                                 <css:before css:display="inline"/>
                                                 <div class="- topic/navtitle navtitle"
-                                                  css:display="block" css:link="#d7e293"
-                                                  css:text-align-last="justify" href="#d7e293"
+                                                  css:display="block" css:link="#d7e409"
+                                                  css:text-align-last="justify" href="#d7e409"
                                                   ><css:before css:display="inline"
-                                                  css:link="#d7e293"/>a<css:after
-                                                  css:display="inline" css:link="#d7e293"
+                                                  css:link="#d7e409"/>a<css:after
+                                                  css:display="inline" css:link="#d7e409"
                                                   ><css:leader pattern="."/><css:target-counter
-                                                  url-fragment="d7e293"/></css:after></div>
+                                                  url-fragment="d7e409"/></css:after></div>
                                             </div>
                                             <div class="- map/topicref topicref" css:display="block"
                                                 css:margin-bottom="0.5em" css:margin-left="2em"
@@ -1335,13 +1412,13 @@
                                                 css:padding-right="0" css:padding-top="0">
                                                 <css:before css:display="inline"/>
                                                 <div class="- topic/navtitle navtitle"
-                                                  css:display="block" css:link="#d7e332"
-                                                  css:text-align-last="justify" href="#d7e332"
+                                                  css:display="block" css:link="#d7e448"
+                                                  css:text-align-last="justify" href="#d7e448"
                                                   ><css:before css:display="inline"
-                                                  css:link="#d7e332"/>c<css:after
-                                                  css:display="inline" css:link="#d7e332"
+                                                  css:link="#d7e448"/>c<css:after
+                                                  css:display="inline" css:link="#d7e448"
                                                   ><css:leader pattern="."/><css:target-counter
-                                                  url-fragment="d7e332"/></css:after></div>
+                                                  url-fragment="d7e448"/></css:after></div>
                                             </div>
                                             <div broken-link="true" class="- map/topicref topicref"
                                                 css:display="block" css:margin-bottom="0.5em"
@@ -1440,13 +1517,13 @@
                                                 css:padding-right="0" css:padding-top="0">
                                                 <css:before css:display="inline"/>
                                                 <div class="- topic/navtitle navtitle"
-                                                  css:display="block" css:link="#d7e371"
-                                                  css:text-align-last="justify" href="#d7e371"
+                                                  css:display="block" css:link="#d7e487"
+                                                  css:text-align-last="justify" href="#d7e487"
                                                   ><css:before css:display="inline"
-                                                  css:link="#d7e371"/>d<css:after
-                                                  css:display="inline" css:link="#d7e371"
+                                                  css:link="#d7e487"/>d<css:after
+                                                  css:display="inline" css:link="#d7e487"
                                                   ><css:leader pattern="."/><css:target-counter
-                                                  url-fragment="d7e371"/></css:after></div>
+                                                  url-fragment="d7e487"/></css:after></div>
                                             </div>
                                         </div>
                                         <div broken-link="true" class="- map/topicref topicref"
@@ -1584,16 +1661,16 @@
                                             css:padding-right="0" css:padding-top="0">
                                             <css:before css:display="inline"/>
                                             <div class="- topic/navtitle navtitle"
-                                                css:display="block" css:link="#d7e430"
-                                                css:text-align-last="justify" href="#d7e430"
+                                                css:display="block" css:link="#d7e546"
+                                                css:text-align-last="justify" href="#d7e546"
                                                   ><css:before css:display="inline"
-                                                  css:link="#d7e430"><css:text>Chapter
+                                                  css:link="#d7e546"><css:text>Chapter
                                                   </css:text><css:counter name="toc-chapter"
-                                                  value="7"/><css:text>.
+                                                  value="6"/><css:text>.
                                                   </css:text></css:before>g<css:after
-                                                  css:display="inline" css:link="#d7e430"
+                                                  css:display="inline" css:link="#d7e546"
                                                   ><css:leader pattern="."/><css:target-counter
-                                                  url-fragment="d7e430"/></css:after></div>
+                                                  url-fragment="d7e546"/></css:after></div>
                                         </div>
                                         <div broken-link="true" class="- map/topicref topicref"
                                             css:display="block" css:font-weight="normal"
@@ -1654,16 +1731,16 @@
                                             css:padding-right="0" css:padding-top="0">
                                             <css:before css:display="inline"/>
                                             <div class="- topic/navtitle navtitle"
-                                                css:display="block" css:link="#d7e451"
-                                                css:text-align-last="justify" href="#d7e451"
+                                                css:display="block" css:link="#d7e567"
+                                                css:text-align-last="justify" href="#d7e567"
                                                   ><css:before css:display="inline"
-                                                  css:link="#d7e451"><css:text>Chapter
+                                                  css:link="#d7e567"><css:text>Chapter
                                                   </css:text><css:counter name="toc-chapter"
-                                                  value="8"/><css:text>.
+                                                  value="7"/><css:text>.
                                                   </css:text></css:before>i<css:after
-                                                  css:display="inline" css:link="#d7e451"
+                                                  css:display="inline" css:link="#d7e567"
                                                   ><css:leader pattern="."/><css:target-counter
-                                                  url-fragment="d7e451"/></css:after></div>
+                                                  url-fragment="d7e567"/></css:after></div>
                                         </div>
                                         <div broken-link="true" class="- map/topicref topicref"
                                             css:display="block" css:font-weight="normal"
@@ -1723,13 +1800,13 @@
                                             css:padding-right="0" css:padding-top="0">
                                             <css:before css:display="inline"/>
                                             <div class="- topic/navtitle navtitle"
-                                                css:display="block" css:link="#d30e2279"
-                                                css:text-align-last="justify" href="#d30e2279"
+                                                css:display="block" css:link="#d30e2637"
+                                                css:text-align-last="justify" href="#d30e2637"
                                                   ><css:before css:display="inline"
-                                                  css:link="#d30e2279"/>Index<css:after
-                                                  css:display="inline" css:link="#d30e2279"
+                                                  css:link="#d30e2637"/>Index<css:after
+                                                  css:display="inline" css:link="#d30e2637"
                                                   ><css:leader pattern="."/><css:target-counter
-                                                  url-fragment="d30e2279"/></css:after></div>
+                                                  url-fragment="d30e2637"/></css:after></div>
                                         </div>
                                     </div>
                                 </div>
@@ -1858,86 +1935,34 @@
                                         <section class="- topic/section section" css:display="block"
                                             css:margin-bottom="1em" css:margin-top="1em"
                                             css:oxy-pdf-tag-type="Sect">
-                                            <p class="- topic/p p" css:display="block"
-                                                css:margin-bottom="0.5em" css:margin-left="0"
-                                                css:margin-right="0" css:margin-top="0.5em">• IBM
-                                                StoredIQ Overview Guide</p>
-                                        </section>
-                                        <section class="- topic/section section" css:display="block"
-                                            css:margin-bottom="1em" css:margin-top="1em"
-                                            css:oxy-pdf-tag-type="Sect">
-                                            <p class="- topic/p p" css:display="block"
-                                                css:margin-bottom="0.5em" css:margin-left="0"
-                                                css:margin-right="0" css:margin-top="0.5em">• IBM
-                                                StoredIQ Deployment and Configuration Guide</p>
-                                        </section>
-                                        <section class="- topic/section section" css:display="block"
-                                            css:margin-bottom="1em" css:margin-top="1em"
-                                            css:oxy-pdf-tag-type="Sect">
-                                            <p class="- topic/p p" css:display="block"
-                                                css:margin-bottom="0.5em" css:margin-left="0"
-                                                css:margin-right="0" css:margin-top="0.5em">• IBM
-                                                StoredIQ Data Server Administration Guide</p>
-                                        </section>
-                                        <section class="- topic/section section" css:display="block"
-                                            css:margin-bottom="1em" css:margin-top="1em"
-                                            css:oxy-pdf-tag-type="Sect">
-                                            <p class="- topic/p p" css:display="block"
-                                                css:margin-bottom="0.5em" css:margin-left="0"
-                                                css:margin-right="0" css:margin-top="0.5em">• IBM
-                                                StoredIQ Administrator Administration Guide</p>
-                                        </section>
-                                        <section class="- topic/section section" css:display="block"
-                                            css:margin-bottom="1em" css:margin-top="1em"
-                                            css:oxy-pdf-tag-type="Sect">
-                                            <p class="- topic/p p" css:display="block"
-                                                css:margin-bottom="0.5em" css:margin-left="0"
-                                                css:margin-right="0" css:margin-top="0.5em">• IBM
-                                                StoredIQ Data Workbench User Guide</p>
-                                        </section>
-                                        <section class="- topic/section section" css:display="block"
-                                            css:margin-bottom="1em" css:margin-top="1em"
-                                            css:oxy-pdf-tag-type="Sect">
-                                            <p class="- topic/p p" css:display="block"
-                                                css:margin-bottom="0.5em" css:margin-left="0"
-                                                css:margin-right="0" css:margin-top="0.5em">• IBM
-                                                StoredIQ Policy Manager User Guide</p>
-                                        </section>
-                                        <section class="- topic/section section" css:display="block"
-                                            css:margin-bottom="1em" css:margin-top="1em"
-                                            css:oxy-pdf-tag-type="Sect">
-                                            <p class="- topic/p p" css:display="block"
-                                                css:margin-bottom="0.5em" css:margin-left="0"
-                                                css:margin-right="0" css:margin-top="0.5em">• IBM
-                                                StoredIQ Insights User Guide</p>
-                                        </section>
-                                        <section class="- topic/section section" css:display="block"
-                                            css:margin-bottom="1em" css:margin-top="1em"
-                                            css:oxy-pdf-tag-type="Sect">
-                                            <p class="- topic/p p" css:display="block"
-                                                css:margin-bottom="0.5em" css:margin-left="0"
-                                                css:margin-right="0" css:margin-top="0.5em">• IBM
-                                                StoredIQ Integration Guide</p>
-                                        </section>
-                                        <section class="- topic/section section" css:display="block"
-                                            css:margin-bottom="1em" css:margin-top="1em"
-                                            css:oxy-pdf-tag-type="Sect">
-                                            <h2 class="- topic/title title sectiontitle"
-                                                css:bookmark-level="2" css:display="block"
-                                                css:font-size="1.17em" css:font-weight="bold"
-                                                css:margin-bottom="0" css:margin-left="0"
-                                                css:margin-right="0" css:margin-top="1em"
-                                                css:oxy-pdf-tag-type="H2"
-                                                css:page-break-after="avoid"
-                                                  ><css:bookmark-label><css:content source="text"
-                                                  /></css:bookmark-label>Contacting IBM StoredIQ
-                                                customer support</h2>
-                                            <p class="- topic/p p" css:display="block"
-                                                css:margin-bottom="0.5em" css:margin-left="0"
-                                                css:margin-right="0" css:margin-top="0.5em">For IBM
-                                                StoredIQ technical support or to learn about
-                                                available service options, contact IBM StoredIQ
-                                                customer support at this phone number:</p>
+                                            <ul class="- topic/ul ul" css:display="block"
+                                                css:list-style-type="disc"
+                                                css:margin-bottom="1.33em" css:margin-top="1.33em">
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">IBM StoredIQ Overview
+                                                  Guide</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">IBM StoredIQ Deployment and
+                                                  Configuration Guide</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">IBM StoredIQ Data Server
+                                                  Administration Guide</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">IBM StoredIQ Administrator
+                                                  Administration Guide</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">IBM StoredIQ Data Workbench
+                                                  User Guide</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">IBM StoredIQ Policy Manager
+                                                  User Guid</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">IBM StoredIQ Insights User
+                                                  Guide</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">IBM StoredIQ Integration
+                                                  Guide</li>
+                                            </ul>
                                         </section>
                                         <section class="- topic/section section" css:display="block"
                                             css:margin-bottom="1em" css:margin-top="1em"
@@ -2191,7 +2216,7 @@
                                                   class="- index/formatted-value formatted-value"
                                                   css:display="inline">data server</span><span
                                                   class="- index/refid refid" css:display="inline"
-                                                  id="d30e751" indexid="indexid-1112868127"
+                                                  id="d30e822" indexid="indexid-1112868127"
                                                   value="data server:"/></span> obtains the data
                                                   from supported data sources and indexes it. By
                                                   indexing this data, you gain information about
@@ -2216,7 +2241,7 @@
                                                   class="- index/formatted-value formatted-value"
                                                   css:display="inline">DataServer -
                                                   Classic</span><span class="- index/refid refid"
-                                                  css:display="inline" id="d30e762"
+                                                  css:display="inline" id="d30e833"
                                                   indexid="indexid-654787858"
                                                   value="DataServer - Classic:"/></span> and <span
                                                   class="- index/entry entry"
@@ -2228,7 +2253,7 @@
                                                   css:display="inline"> DataServer -
                                                   Distributed</span><span
                                                   class="- index/refid refid" css:display="inline"
-                                                  id="d30e767" indexid="indexid-1955124227"
+                                                  id="d30e838" indexid="indexid-1955124227"
                                                   value="DataServer - Distributed:"/></span>. A data
                                                   server of the type DataServer - Classic uses the
                                                   embedded PostgreSQL database for storing the
@@ -2282,7 +2307,7 @@
                                                   css:display="inline">IBM StoredIQ Administrator, ,
                                                   , and the IBM StoredIQ</span><span
                                                   class="- index/refid refid" css:display="inline"
-                                                  id="d30e790" indexid="indexid-2020560373"
+                                                  id="d30e861" indexid="indexid-2020560373"
                                                   value="IBM StoredIQ Administrator, , , and the IBM StoredIQ:"
                                                   /><span class="- index/entry entry"
                                                   css:background-color="transparent"
@@ -2291,7 +2316,7 @@
                                                   class="- index/formatted-value formatted-value"
                                                   css:display="inline">IBM StoredIQ</span><span
                                                   class="- index/refid refid" css:display="inline"
-                                                  id="d30e794" indexid="indexid-43817839"
+                                                  id="d30e865" indexid="indexid-43817839"
                                                   value="IBM StoredIQ Administrator,:IBM StoredIQ:"
                                                   /></span><span class="- index/entry entry"
                                                   css:background-color="transparent"
@@ -2300,7 +2325,7 @@
                                                   class="- index/formatted-value formatted-value"
                                                   css:display="inline">Data Workbench</span><span
                                                   class="- index/refid refid" css:display="inline"
-                                                  id="d30e798" indexid="indexid-93158657"
+                                                  id="d30e869" indexid="indexid-93158657"
                                                   value="IBM StoredIQ Administrator,:Data Workbench:"
                                                   /></span><span class="- index/entry entry"
                                                   css:background-color="transparent"
@@ -2310,7 +2335,7 @@
                                                   class="- index/formatted-value formatted-value"
                                                   css:display="inline">IBM StoredIQ
                                                   Insights</span><span class="- index/refid refid"
-                                                  css:display="inline" id="d30e802"
+                                                  css:display="inline" id="d30e873"
                                                   indexid="indexid-1214980740"
                                                   value="IBM StoredIQ Administrator, ,:IBM StoredIQ Insights:"
                                                   /></span></span> Policy Manager products.</p>
@@ -2344,7 +2369,7 @@
                                                   class="- index/formatted-value formatted-value"
                                                   css:display="inline">Elasticsearch</span><span
                                                   class="- index/refid refid" css:display="inline"
-                                                  id="d30e819" indexid="indexid1876524861"
+                                                  id="d30e890" indexid="indexid1876524861"
                                                   value="Elasticsearch:"/></span> cluster attached
                                                   to a data server of the type DataServer -
                                                   Distributed provides a single data store for all
@@ -2393,7 +2418,17 @@
                                                   ><css:bookmark-label><css:content source="text"
                                                   /></css:bookmark-label>IBM StoredIQ Data
                                                   Server</h3>
-                                                <p class="- topic/p p" css:display="block"
+                                                <dl class="- topic/dl dl" css:display="block">
+                                                  <dt audience="administrator"
+                                                  class="- topic/dt dt dlterm" css:display="block"
+                                                  css:font-weight="bold" css:margin-bottom="0.5em"
+                                                  css:margin-left="1em" css:margin-right="1em"
+                                                  css:margin-top="0.5em">admin</dt>
+                                                  <dd audience="administrator" class="- topic/dd dd"
+                                                  css:display="block" css:margin-bottom="0.5em"
+                                                  css:margin-left="3em" css:margin-right="3em"
+                                                  css:margin-top="0.5em">
+                                                  <p class="- topic/p p" css:display="block"
                                                   css:margin-bottom="0.5em" css:margin-left="0"
                                                   css:margin-right="0" css:margin-top="0.5em">IBM
                                                   StoredIQ Data Server user interface provides
@@ -2403,6 +2438,11 @@
                                                   Administrators can manage information about
                                                   servers and conduct various configurations on the
                                                   system and application settings.</p>
+                                                  </dd>
+                                                </dl>
+                                                <img class="- topic/image image" conkeyref=""
+                                                  css:display="inline" css:image-resolution="120dpi"
+                                                  css:max-width="100%" placement="inline"/>
                                                 <img align="center" chfox:inch="true"
                                                   class="- topic/image image" css:display="inline"
                                                   css:image-resolution="120dpi" css:max-width="100%"
@@ -2520,7 +2560,7 @@
                                                   class="- index/formatted-value formatted-value"
                                                   css:display="inline">System infoset</span><span
                                                   class="- index/refid refid" css:display="inline"
-                                                  id="d30e881" indexid="indexid-636921737"
+                                                  id="d30e964" indexid="indexid-636921737"
                                                   value="System infoset:"/></span>s that use only
                                                   speci³c indexed volumes can be created and managed
                                                   within IBM StoredIQ Administrator. Although
@@ -2592,7 +2632,7 @@
                                                   css:display="inline">IBM® Content classification's
                                                   classification model into the IBM</span><span
                                                   class="- index/refid refid" css:display="inline"
-                                                  id="d30e917" indexid="indexid-714234043"
+                                                  id="d30e1000" indexid="indexid-714234043"
                                                   value="IBM® Content classification's classification model into the IBM:"
                                                   /><span class="- index/entry entry"
                                                   css:background-color="transparent"
@@ -2602,7 +2642,7 @@
                                                   class="- index/formatted-value formatted-value"
                                                   css:display="inline">StoredIQ infoset-generation
                                                   process</span><span class="- index/refid refid"
-                                                  css:display="inline" id="d30e921"
+                                                  css:display="inline" id="d30e1004"
                                                   indexid="indexid-257758806"
                                                   value="IBM® Content classification's classification model into the IBM:StoredIQ infoset-generation process:"
                                                   /></span></span>. Data Experts can use IBM Content
@@ -3022,86 +3062,34 @@
                                             <section class="- topic/section section"
                                                 css:display="block" css:margin-bottom="1em"
                                                 css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
-                                                <p class="- topic/p p" css:display="block"
-                                                  css:margin-bottom="0.5em" css:margin-left="0"
-                                                  css:margin-right="0" css:margin-top="0.5em">• IBM
-                                                  StoredIQ Overview Guide</p>
-                                            </section>
-                                            <section class="- topic/section section"
-                                                css:display="block" css:margin-bottom="1em"
-                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
-                                                <p class="- topic/p p" css:display="block"
-                                                  css:margin-bottom="0.5em" css:margin-left="0"
-                                                  css:margin-right="0" css:margin-top="0.5em">• IBM
-                                                  StoredIQ Deployment and Configuration Guide</p>
-                                            </section>
-                                            <section class="- topic/section section"
-                                                css:display="block" css:margin-bottom="1em"
-                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
-                                                <p class="- topic/p p" css:display="block"
-                                                  css:margin-bottom="0.5em" css:margin-left="0"
-                                                  css:margin-right="0" css:margin-top="0.5em">• IBM
-                                                  StoredIQ Data Server Administration Guide</p>
-                                            </section>
-                                            <section class="- topic/section section"
-                                                css:display="block" css:margin-bottom="1em"
-                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
-                                                <p class="- topic/p p" css:display="block"
-                                                  css:margin-bottom="0.5em" css:margin-left="0"
-                                                  css:margin-right="0" css:margin-top="0.5em">• IBM
-                                                  StoredIQ Administrator Administration Guide</p>
-                                            </section>
-                                            <section class="- topic/section section"
-                                                css:display="block" css:margin-bottom="1em"
-                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
-                                                <p class="- topic/p p" css:display="block"
-                                                  css:margin-bottom="0.5em" css:margin-left="0"
-                                                  css:margin-right="0" css:margin-top="0.5em">• IBM
-                                                  StoredIQ Data Workbench User Guide</p>
-                                            </section>
-                                            <section class="- topic/section section"
-                                                css:display="block" css:margin-bottom="1em"
-                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
-                                                <p class="- topic/p p" css:display="block"
-                                                  css:margin-bottom="0.5em" css:margin-left="0"
-                                                  css:margin-right="0" css:margin-top="0.5em">• IBM
-                                                  StoredIQ Policy Manager User Guide</p>
-                                            </section>
-                                            <section class="- topic/section section"
-                                                css:display="block" css:margin-bottom="1em"
-                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
-                                                <p class="- topic/p p" css:display="block"
-                                                  css:margin-bottom="0.5em" css:margin-left="0"
-                                                  css:margin-right="0" css:margin-top="0.5em">• IBM
-                                                  StoredIQ Insights User Guide</p>
-                                            </section>
-                                            <section class="- topic/section section"
-                                                css:display="block" css:margin-bottom="1em"
-                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
-                                                <p class="- topic/p p" css:display="block"
-                                                  css:margin-bottom="0.5em" css:margin-left="0"
-                                                  css:margin-right="0" css:margin-top="0.5em">• IBM
-                                                  StoredIQ Integration Guide</p>
-                                            </section>
-                                            <section class="- topic/section section"
-                                                css:display="block" css:margin-bottom="1em"
-                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
-                                                <h3 class="- topic/title title sectiontitle"
-                                                  css:bookmark-level="3" css:display="block"
-                                                  css:font-size="1.17em" css:font-weight="bold"
-                                                  css:margin-bottom="0" css:margin-left="0"
-                                                  css:margin-right="0" css:margin-top="1em"
-                                                  css:oxy-pdf-tag-type="H3"
-                                                  css:page-break-after="avoid"
-                                                  ><css:bookmark-label><css:content source="text"
-                                                  /></css:bookmark-label>Contacting IBM StoredIQ
-                                                  customer support</h3>
-                                                <p class="- topic/p p" css:display="block"
-                                                  css:margin-bottom="0.5em" css:margin-left="0"
-                                                  css:margin-right="0" css:margin-top="0.5em">For
-                                                  IBM StoredIQ technical support or to learn about
-                                                  available service options, contact IBM StoredIQ
-                                                  customer support at this phone number:</p>
+                                                <ul class="- topic/ul ul" css:display="block"
+                                                  css:list-style-type="disc"
+                                                  css:margin-bottom="1.33em" css:margin-top="1.33em">
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">IBM StoredIQ Overview
+                                                  Guide</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">IBM StoredIQ Deployment and
+                                                  Configuration Guide</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">IBM StoredIQ Data Server
+                                                  Administration Guide</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">IBM StoredIQ Administrator
+                                                  Administration Guide</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">IBM StoredIQ Data Workbench
+                                                  User Guide</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">IBM StoredIQ Policy Manager
+                                                  User Guid</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">IBM StoredIQ Insights User
+                                                  Guide</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">IBM StoredIQ Integration
+                                                  Guide</li>
+                                                </ul>
                                             </section>
                                             <section class="- topic/section section"
                                                 css:display="block" css:margin-bottom="1em"
@@ -3381,7 +3369,7 @@
                                                   class="- index/formatted-value formatted-value"
                                                   css:display="inline">data server</span><span
                                                   class="- index/refid refid" css:display="inline"
-                                                  id="d30e1320" indexid="indexid-1112868127"
+                                                  id="d30e1358" indexid="indexid-1112868127"
                                                   value="data server:"/></span> obtains the data
                                                 from supported data sources and indexes it. By
                                                 indexing this data, you gain information about
@@ -3406,7 +3394,7 @@
                                                   class="- index/formatted-value formatted-value"
                                                   css:display="inline">DataServer -
                                                   Classic</span><span class="- index/refid refid"
-                                                  css:display="inline" id="d30e1331"
+                                                  css:display="inline" id="d30e1369"
                                                   indexid="indexid-654787858"
                                                   value="DataServer - Classic:"/></span> and <span
                                                   class="- index/entry entry"
@@ -3418,7 +3406,7 @@
                                                   css:display="inline"> DataServer -
                                                   Distributed</span><span
                                                   class="- index/refid refid" css:display="inline"
-                                                  id="d30e1336" indexid="indexid-1955124227"
+                                                  id="d30e1374" indexid="indexid-1955124227"
                                                   value="DataServer - Distributed:"/></span>. A data
                                                 server of the type DataServer - Classic uses the
                                                 embedded PostgreSQL database for storing the index.
@@ -3471,7 +3459,7 @@
                                                   css:display="inline">IBM StoredIQ Administrator, ,
                                                   , and the IBM StoredIQ</span><span
                                                   class="- index/refid refid" css:display="inline"
-                                                  id="d30e1359" indexid="indexid-2020560373"
+                                                  id="d30e1397" indexid="indexid-2020560373"
                                                   value="IBM StoredIQ Administrator, , , and the IBM StoredIQ:"
                                                   /><span class="- index/entry entry"
                                                   css:background-color="transparent"
@@ -3480,7 +3468,7 @@
                                                   class="- index/formatted-value formatted-value"
                                                   css:display="inline">IBM StoredIQ</span><span
                                                   class="- index/refid refid" css:display="inline"
-                                                  id="d30e1363" indexid="indexid-43817839"
+                                                  id="d30e1401" indexid="indexid-43817839"
                                                   value="IBM StoredIQ Administrator,:IBM StoredIQ:"
                                                   /></span><span class="- index/entry entry"
                                                   css:background-color="transparent"
@@ -3489,7 +3477,7 @@
                                                   class="- index/formatted-value formatted-value"
                                                   css:display="inline">Data Workbench</span><span
                                                   class="- index/refid refid" css:display="inline"
-                                                  id="d30e1367" indexid="indexid-93158657"
+                                                  id="d30e1405" indexid="indexid-93158657"
                                                   value="IBM StoredIQ Administrator,:Data Workbench:"
                                                   /></span><span class="- index/entry entry"
                                                   css:background-color="transparent"
@@ -3499,7 +3487,7 @@
                                                   class="- index/formatted-value formatted-value"
                                                   css:display="inline">IBM StoredIQ
                                                   Insights</span><span class="- index/refid refid"
-                                                  css:display="inline" id="d30e1371"
+                                                  css:display="inline" id="d30e1409"
                                                   indexid="indexid-1214980740"
                                                   value="IBM StoredIQ Administrator, ,:IBM StoredIQ Insights:"
                                                   /></span></span> Policy Manager products.</p>
@@ -3533,7 +3521,7 @@
                                                   class="- index/formatted-value formatted-value"
                                                   css:display="inline">Elasticsearch</span><span
                                                   class="- index/refid refid" css:display="inline"
-                                                  id="d30e1388" indexid="indexid1876524861"
+                                                  id="d30e1426" indexid="indexid1876524861"
                                                   value="Elasticsearch:"/></span> cluster attached
                                                 to a data server of the type DataServer -
                                                 Distributed provides a single data store for all
@@ -3582,16 +3570,31 @@
                                                   ><css:bookmark-label><css:content source="text"
                                                   /></css:bookmark-label>IBM StoredIQ Data
                                                 Server</h2>
-                                            <p class="- topic/p p" css:display="block"
-                                                css:margin-bottom="0.5em" css:margin-left="0"
-                                                css:margin-right="0" css:margin-top="0.5em">IBM
-                                                StoredIQ Data Server user interface provides access
-                                                to data server functionality. It allows
-                                                administrators to view the dashboard and see the
-                                                status of the jobs and system details.
-                                                Administrators can manage information about servers
-                                                and conduct various configurations on the system and
-                                                application settings.</p>
+                                            <dl class="- topic/dl dl" css:display="block">
+                                                <dt audience="administrator"
+                                                  class="- topic/dt dt dlterm" css:display="block"
+                                                  css:font-weight="bold" css:margin-bottom="0.5em"
+                                                  css:margin-left="1em" css:margin-right="1em"
+                                                  css:margin-top="0.5em">admin</dt>
+                                                <dd audience="administrator" class="- topic/dd dd"
+                                                  css:display="block" css:margin-bottom="0.5em"
+                                                  css:margin-left="3em" css:margin-right="3em"
+                                                  css:margin-top="0.5em">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">IBM
+                                                  StoredIQ Data Server user interface provides
+                                                  access to data server functionality. It allows
+                                                  administrators to view the dashboard and see the
+                                                  status of the jobs and system details.
+                                                  Administrators can manage information about
+                                                  servers and conduct various configurations on the
+                                                  system and application settings.</p>
+                                                </dd>
+                                            </dl>
+                                            <img class="- topic/image image" conkeyref=""
+                                                css:display="inline" css:image-resolution="120dpi"
+                                                css:max-width="100%" placement="inline"/>
                                             <img align="center" chfox:inch="true"
                                                 class="- topic/image image" css:display="inline"
                                                 css:image-resolution="120dpi" css:max-width="100%"
@@ -3709,7 +3712,7 @@
                                                   class="- index/formatted-value formatted-value"
                                                   css:display="inline">System infoset</span><span
                                                   class="- index/refid refid" css:display="inline"
-                                                  id="d30e1450" indexid="indexid-636921737"
+                                                  id="d30e1500" indexid="indexid-636921737"
                                                   value="System infoset:"/></span>s that use only
                                                   speci³c indexed volumes can be created and managed
                                                   within IBM StoredIQ Administrator. Although
@@ -3781,7 +3784,7 @@
                                                   css:display="inline">IBM® Content classification's
                                                   classification model into the IBM</span><span
                                                   class="- index/refid refid" css:display="inline"
-                                                  id="d30e1486" indexid="indexid-714234043"
+                                                  id="d30e1536" indexid="indexid-714234043"
                                                   value="IBM® Content classification's classification model into the IBM:"
                                                   /><span class="- index/entry entry"
                                                   css:background-color="transparent"
@@ -3791,7 +3794,7 @@
                                                   class="- index/formatted-value formatted-value"
                                                   css:display="inline">StoredIQ infoset-generation
                                                   process</span><span class="- index/refid refid"
-                                                  css:display="inline" id="d30e1490"
+                                                  css:display="inline" id="d30e1540"
                                                   indexid="indexid-257758806"
                                                   value="IBM® Content classification's classification model into the IBM:StoredIQ infoset-generation process:"
                                                   /></span></span>. Data Experts can use IBM Content
@@ -4170,27 +4173,16 @@
                                         css:font-size="2em" css:margin-bottom="1em"
                                         css:margin-left="0" css:margin-right="0" css:margin-top="0"
                                         css:oxy-pdf-tag-type="H1" css:page-break-after="avoid"
-                                        id="ariaid-title7">
-                                        <css:string-set name="chaptertitle">
-                                            <css:text> | </css:text>
-                                            <css:counter name="chapter" value="3"/>
-                                            <css:text> - </css:text>
-                                            <css:content source="text"/>
-                                        </css:string-set>
-                                        <css:bookmark-label>
-                                            <css:content source="before"/>
-                                            <css:content source="text"/>
-                                        </css:bookmark-label>
-                                        <css:before css:display="inline">
-                                            <css:text>Chapter </css:text>
-                                            <css:counter name="chapter" value="3"/>
-                                            <css:text>. </css:text>
-                                        </css:before>
-                                        <span class="+ topic/ph hi-d/overline ph overline"
-                                            css:display="inline" css:text-decoration="overline"
-                                            style="text-decoration:overline">Planning for
-                                            deployment</span>
-                                    </h1>
+                                        id="ariaid-title7"><css:string-set name="chaptertitle"
+                                                ><css:text> | </css:text><css:counter name="chapter"
+                                                value="3"/><css:text> - </css:text><css:content
+                                                source="text"
+                                                /></css:string-set><css:bookmark-label><css:content
+                                                source="before"/><css:content source="text"
+                                            /></css:bookmark-label><css:before css:display="inline"
+                                                ><css:text>Chapter </css:text><css:counter
+                                                name="chapter" value="3"/><css:text>.
+                                            </css:text></css:before>Planning for deployment</h1>
                                     <div class="- topic/prolog prolog"
                                         css:background-color="transparent"
                                         css:border-bottom-style="none" css:border-left-style="none"
@@ -4226,9 +4218,6 @@
                                     <div class="- topic/body concept/conbody body conbody"
                                         css:display="block" css:margin-bottom="0"
                                         css:margin-left="0" css:margin-right="0" css:margin-top="0">
-                                        <p class="- topic/shortdesc shortdesc" css:display="block"
-                                            css:margin-bottom="0.5em" css:margin-left="0"
-                                            css:margin-right="0" css:margin-top="0.5em"/>
                                         <p class="- topic/p p" css:display="block"
                                             css:margin-bottom="0.5em" css:margin-left="0"
                                             css:margin-right="0" css:margin-top="0.5em">When you
@@ -4457,8 +4446,6 @@
                                                   css:list-style-type="disc"
                                                   css:margin-bottom="1.33em" css:margin-top="1.33em">
                                                   <li class="- topic/li li" css:display="list-item"
-                                                  css:margin-left="2em"/>
-                                                  <li class="- topic/li li" css:display="list-item"
                                                   css:margin-left="2em">vCPU: 2</li>
                                                   <li class="- topic/li li" css:display="list-item"
                                                   css:margin-left="2em">Memory: 4 GB</li>
@@ -4522,8 +4509,8 @@
                                                 css:margin-right="0" css:margin-top="0.5em"><strong
                                                   class="+ topic/ph hi-d/b ph b"
                                                   css:display="inline" css:font-weight="bold"
-                                                  >Atteon:</strong> If you delete the primary disk,
-                                                you delete the operating system, and the IBM
+                                                  >Attention:</strong> If you delete the primary
+                                                disk, you delete the operating system, and the IBM
                                                 StoredIQ software; the virtual machine might need to
                                                 be scrapped.</p>
                                             <p class="- topic/p p" css:display="block"
@@ -4674,7 +4661,7 @@
                                     </div>
                                     <article aria-labelledby="ariaid-title8"
                                         class="+ topic/topic pdf2-d/placeholder topic placeholder nested1"
-                                        css:display="block" css:oxy-pdf-tag-type="Sect" id="d7e205"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect" id="d7e202"
                                         topicrefclass="- map/topicref ">
                                         <h2 class="- topic/title title topictitle2"
                                             css:bookmark-level="2" css:bookmark-state="closed"
@@ -4688,8 +4675,11 @@
                                             configuration requirements</h2>
                                     </article>
                                     <article aria-labelledby="ariaid-title9"
-                                        class="+ topic/topic pdf2-d/placeholder topic placeholder nested1"
-                                        css:display="block" css:oxy-pdf-tag-type="Sect" id="d7e206"
+                                        class="- topic/topic concept/concept topic concept nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect"
+                                        id="unique_4"
+                                        nd:nd-id="Planning_for_deployment_Enviromentsizingguidelines"
+                                        oid="Planning_for_deployment_Enviromentsizingguidelines"
                                         topicrefclass="- map/topicref ">
                                         <h2 class="- topic/title title topictitle2"
                                             css:bookmark-level="2" css:bookmark-state="closed"
@@ -4699,28 +4689,256 @@
                                             css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
                                             id="ariaid-title9"><css:bookmark-label><css:content
                                                   source="before"/><css:content source="text"
-                                                /></css:bookmark-label>Network and port
-                                            requirements</h2>
-                                    </article>
-                                    <article aria-labelledby="ariaid-title10"
-                                        class="+ topic/topic pdf2-d/placeholder topic placeholder nested1"
-                                        css:display="block" css:oxy-pdf-tag-type="Sect" id="d7e207"
-                                        topicrefclass="- map/topicref ">
-                                        <h2 class="- topic/title title topictitle2"
-                                            css:bookmark-level="2" css:bookmark-state="closed"
-                                            css:display="block" css:font-size="1.7em"
-                                            css:margin-bottom="0.5em" css:margin-left="0"
-                                            css:margin-right="0" css:margin-top="1.5em"
-                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
-                                            id="ariaid-title10"><css:bookmark-label><css:content
-                                                  source="before"/><css:content source="text"
                                                 /></css:bookmark-label>Environment sizing
                                             guidelines</h2>
+                                        <div class="- topic/prolog prolog"
+                                            css:background-color="transparent"
+                                            css:border-bottom-style="none"
+                                            css:border-left-style="none"
+                                            css:border-right-style="none"
+                                            css:border-top-style="none" css:color="transparent"
+                                            css:display="none" css:font-size="0" css:height="0"
+                                            css:margin-bottom="0" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="0"
+                                            css:padding-bottom="0" css:padding-left="0"
+                                            css:padding-right="0" css:padding-top="0" css:width="0">
+                                            <div class="- topic/copyright copyright"
+                                                css:display="none">
+                                                <div class="- topic/copyryear copyryear"
+                                                  css:display="none" year="2001,2019"/>
+                                                <div class="- topic/copyrholder copyrholder"
+                                                  css:display="none">Copyright of IBM CORP</div>
+                                            </div>
+                                            <div class="- topic/metadata metadata"
+                                                css:display="none">
+                                                <div class="- topic/prodinfo prodinfo"
+                                                  css:display="none">
+                                                  <div class="- topic/prodname prodname"
+                                                  css:display="none">IBM Stored IQ</div>
+                                                  <div class="- topic/vrmlist vrmlist"
+                                                  css:display="none">
+                                                  <div class="- topic/vrm vrm" css:display="none"
+                                                  version="7.6.0.19"/>
+                                                  </div>
+                                                  <div class="- topic/brand brand"
+                                                  css:display="none">IBM</div>
+                                                  <div class="- topic/prognum prognum"
+                                                  css:display="none">5724M86</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="- topic/body concept/conbody body conbody"
+                                            css:display="block" css:margin-bottom="0"
+                                            css:margin-left="0" css:margin-right="0"
+                                            css:margin-top="0">
+                                            <p class="- topic/shortdesc shortdesc"
+                                                css:display="block" css:margin-bottom="0.5em"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="0.5em"/>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em">To size
+                                                an environment precisely, you must understand the
+                                                factors such as harvest frequency, complexity of the
+                                                source, and use case scenarios that drive
+                                                application use and action execution.</p>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em">The
+                                                general design guidelines for IBM StoredIQ are as
+                                                follows:</p>
+                                            <ul class="- topic/ul ul" css:display="block"
+                                                css:list-style-type="disc"
+                                                css:margin-bottom="1.33em" css:margin-top="1.33em">
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">For data servers of the type
+                                                  DataServer - Classic: <ul class="- topic/ul ul"
+                                                  css:display="block" css:margin-bottom="0em"
+                                                  css:margin-top="0em">
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:list-style-type="circle" css:margin-left="2em"
+                                                  >One data server for up to 30 TBs of data (which
+                                                  can vary based on the number of volumes, objects
+                                                  per volume, and object types).</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:list-style-type="circle" css:margin-left="2em"
+                                                  >Up to 500 volumes per data server. <div
+                                                  class="- topic/note note tip note_tip"
+                                                  css:display="block" css:margin-bottom="1em"
+                                                  css:margin-top="1em" css:oxy-pdf-tag-type="Note"
+                                                  type="tip"><span class="note__title"
+                                                  css:background-image="url('file:/C:/Program%20Files/Oxygen%20XML%20Editor%2021/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/img/tip.svg')"
+                                                  css:background-position="left"
+                                                  css:background-repeat="no-repeat"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  css:padding-bottom="4px" css:padding-left="23px"
+                                                  css:padding-right="4px" css:padding-top="4px"
+                                                  >Tip:</span> When you're sizing an environment
+                                                  that includes Sharepoint data sources, keep in
+                                                  mind that volumes must be defined at Sharepoint
+                                                  site collection level, not the Sharepoint server
+                                                  level.</div></li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:list-style-type="circle" css:margin-left="2em"
+                                                  >Up to 150 million objects per data server.</li>
+                                                  </ul></li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">One gateway per 50 data
+                                                  servers.</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">One application server.</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">NFS is slightly faster than
+                                                  CIFS for metadata only, but assume CIFS/NFS even
+                                                  for this exercise.</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Full-content processing of
+                                                  file (for example, .ZIP, .RAR, .GZ) and email
+                                                  archive (.PST, .NSF, .EMX) processing are slower
+                                                  as items must be extracted from the archives. If
+                                                  there is a significant number of these files in
+                                                  the file system and they are not excluded from
+                                                  content processing, the full-content processing
+                                                  rate can be too high. Until you have an initial
+                                                  index of the file system, you do not know how to
+                                                  weigh full-content processing of archives. </li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">An object/time metric is
+                                                  appropriate for metadata only NOT computing a
+                                                  hash, membership in the National Institute of
+                                                  Standards and Technology (NIST) or enumerating
+                                                  objects that are contained in archives. Converting
+                                                  it to a bytes/time metric is a function of the
+                                                  average object size and might vary tremendously.
+                                                  An average object size of 250 KB was used for the
+                                                  metric that is provided earlier.</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">A bytes/time metric is
+                                                  appropriate for metadata-only computing a hash and
+                                                  full-content processing. The object per second
+                                                  rate can vary tremendously depending on the object
+                                                  type and sizes encountered. For example,
+                                                  processing an email or file archive is much more
+                                                  expensive than a PDF document.</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Metadata-only not computing
+                                                  a hash, membership in the NIST list, or
+                                                  enumerating objects that are contained in archives
+                                                  is requesting only the file-attribute information
+                                                  from the NAS. Individual files are not opened and
+                                                  read. The processing rate is high, but that does
+                                                  not translate into a large amount of data that
+                                                  traverses a network between the NAS and data
+                                                  server. The bytes/time rate does not translate
+                                                  into bytes served by the NAS and sent over the
+                                                  network.</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Metadata-only computing a
+                                                  hash, membership in the NIST list, or enumerating
+                                                  objects that are contained in archives opens and
+                                                  reads the contents of each file. The content of
+                                                  all requested files traverses the network between
+                                                  the NAS and data server. The maximum load that the
+                                                  data server can place on a NAS is metadata-only
+                                                  processing. It requires all file content to be
+                                                  read to compute a hash or enumerate objects that
+                                                  are contained in archives. The bytes/time rate
+                                                  translates into bytes served up by the NAS and
+                                                  network traffic that must be considered.</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Full-content processing
+                                                  opens and reads the contents of each file to
+                                                  extract all text. The content of all requested
+                                                  files traverses the network between the NAS and
+                                                  data server. The processing time to enumerate
+                                                  archives, extract text, index words, and extract
+                                                  entities on the data server reduces the rate that
+                                                  data is requested from a NAS compared to
+                                                  metadata-only with full hash. The bytes/time rate
+                                                  translates into bytes served up by the NAS and
+                                                  network traffic that must be considered.</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">The interrogator process
+                                                  count on the data server for "metadata only not
+                                                  reading all content indexing" is set to eight for
+                                                  optimal performance.</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">The interrogator process
+                                                  count for all other processing that involves
+                                                  reading all content default setting is four per
+                                                  data server.</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">The interrogator count can
+                                                  be viewed as the number of client connections that
+                                                  are made to a data source actively requesting
+                                                  data. It is important for capacity planning for
+                                                  the data source.</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">The data servers are assumed
+                                                  to be "network close" to the NAS data sources.
+                                                  Network latency under 10 ms with at least 1000
+                                                  Mbps bandwidth is assumed (connected through local
+                                                  area network). The data servers need a low latency
+                                                  high-bandwidth connection to a NAS data source for
+                                                  acceptable indexing performance.</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">The gateway and application
+                                                  stack can be located remotely from the data
+                                                  servers. Network connections with latency greater
+                                                  than 10 ms and bandwidth of at least 2+ Mbps are
+                                                  acceptable.</li>
+                                            </ul>
+                                            <section class="- topic/section section"
+                                                css:display="block" css:margin-bottom="1em"
+                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                                <h3 class="- topic/title title sectiontitle"
+                                                  css:bookmark-level="3" css:display="block"
+                                                  css:font-size="1.17em" css:font-weight="bold"
+                                                  css:margin-bottom="0" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="1em"
+                                                  css:oxy-pdf-tag-type="H3"
+                                                  css:page-break-after="avoid"
+                                                  ><css:bookmark-label><css:content source="text"
+                                                  /></css:bookmark-label>VMware requirements</h3>
+                                                <ul class="- topic/ul ul" css:display="block"
+                                                  css:list-style-type="disc"
+                                                  css:margin-bottom="1.33em" css:margin-top="1.33em">
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">VMware vSphere v5.0 and fix
+                                                  packs or v6.0 and fix packs.</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">VMware ESXi v5.0 and fix
+                                                  packs, v6.0 and fix packs, or v6.5 and fix
+                                                  packs.</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">VMware virtual machine
+                                                  hardware version 8.0 or later. For more
+                                                  information, see <a class="- topic/xref xref"
+                                                  css:color="blue" css:display="inline"
+                                                  css:link="https://www.vmware.com/support/pubs/"
+                                                  css:text-decoration="underline" format="html"
+                                                  href="https://www.vmware.com/support/pubs/"
+                                                  scope="external" target="_blank"><u
+                                                  class="+ topic/ph hi-d/u ph u"
+                                                  css:display="inline"
+                                                  css:link="https://www.vmware.com/support/pubs/"
+                                                  css:text-decoration="underline">the VMWare product
+                                                  documentation</u><css:after css:display="inline"
+                                                  css:font-style="italic"
+                                                  css:link="https://www.vmware.com/support/pubs/"
+                                                  css:text-decoration="underline"/></a></li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">The appropriate VMware
+                                                  license to enable the required processor cores and
+                                                  memory for the virtual machine.</li>
+                                                </ul>
+                                            </section>
+                                        </div>
                                     </article>
-                                    <article aria-labelledby="ariaid-title11"
+                                    <article aria-labelledby="ariaid-title10"
                                         class="- topic/topic concept/concept topic concept nested1"
                                         css:display="block" css:oxy-pdf-tag-type="Sect"
-                                        id="unique_4"
+                                        id="unique_5"
                                         nd:nd-id="Planning_for_deployment_Stack-provisioningprerequisites"
                                         oid="Planning_for_deployment_Stack-provisioningprerequisites"
                                         topicrefclass="- map/topicref ">
@@ -4730,7 +4948,7 @@
                                             css:margin-bottom="0.5em" css:margin-left="0"
                                             css:margin-right="0" css:margin-top="1.5em"
                                             css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
-                                            id="ariaid-title11"><css:bookmark-label><css:content
+                                            id="ariaid-title10"><css:bookmark-label><css:content
                                                   source="before"/><css:content source="text"
                                                 /></css:bookmark-label>Stack-provisioning
                                             prerequisites</h2>
@@ -4834,10 +5052,10 @@
                                             </ul>
                                         </div>
                                     </article>
-                                    <article aria-labelledby="ariaid-title12"
+                                    <article aria-labelledby="ariaid-title11"
                                         class="- topic/topic concept/concept topic concept nested1"
                                         css:display="block" css:oxy-pdf-tag-type="Sect"
-                                        id="unique_5" nd:nd-id="Planning_for_deployment_security"
+                                        id="unique_6" nd:nd-id="Planning_for_deployment_security"
                                         oid="Planning_for_deployment_security"
                                         topicrefclass="- map/topicref ">
                                         <h2 class="- topic/title title topictitle2"
@@ -4846,7 +5064,7 @@
                                             css:margin-bottom="0.5em" css:margin-left="0"
                                             css:margin-right="0" css:margin-top="1.5em"
                                             css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
-                                            id="ariaid-title12"><css:bookmark-label><css:content
+                                            id="ariaid-title11"><css:bookmark-label><css:content
                                                   source="before"/><css:content source="text"
                                                 /></css:bookmark-label>Security</h2>
                                         <div class="- topic/prolog prolog"
@@ -5491,7 +5709,7 @@
             </body>
         </html>
     </css:page-sequence>
-    <css:page-sequence page="chapter">
+    <css:page-sequence xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" page="chapter">
         <html css:counter-reset=" page 1" css:display="block"
             css:font-family="serif, Times, Times New Roman, Symbol, MingLiU, MS Mincho, Arial Unicode MS"
             css:font-size="12px"
@@ -5507,17 +5725,18 @@
                                 css:display="block" ditaarch:ditaarchversion="1.3"
                                 domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)"
                                 lang="en" xml:lang="en">
-                                <article aria-labelledby="ariaid-title13" break-before="true"
-                                    class="+ topic/topic pdf2-d/placeholder topic placeholder nested0"
+                                <article aria-labelledby="ariaid-title12" break-before="true"
+                                    class="- topic/topic concept/concept topic concept nested0"
                                     css:display="block" css:margin-top="1em"
-                                    css:oxy-pdf-tag-type="Sect" id="d7e286" is-chapter="true"
+                                    css:oxy-pdf-tag-type="Sect" id="unique_7" is-chapter="true"
+                                    nd:nd-id="Deploying_IBM_StoredIQ" oid="Deploying_IBM_StoredIQ"
                                     topicrefclass="- map/topicref ">
                                     <h1 class="- topic/title title topictitle1"
                                         css:bookmark-level="1" css:display="block"
                                         css:font-size="2em" css:margin-bottom="1em"
                                         css:margin-left="0" css:margin-right="0" css:margin-top="0"
                                         css:oxy-pdf-tag-type="H1" css:page-break-after="avoid"
-                                        id="ariaid-title13"><css:string-set name="chaptertitle"
+                                        id="ariaid-title12"><css:string-set name="chaptertitle"
                                                 ><css:text> | </css:text><css:counter name="chapter"
                                                 value="4"/><css:text> - </css:text><css:content
                                                 source="text"
@@ -5527,9 +5746,50 @@
                                                 ><css:text>Chapter </css:text><css:counter
                                                 name="chapter" value="4"/><css:text>.
                                             </css:text></css:before>Deploying IBM StoredIQ</h1>
-                                    <article aria-labelledby="ariaid-title14"
-                                        class="+ topic/topic pdf2-d/placeholder topic placeholder nested1"
-                                        css:display="block" css:oxy-pdf-tag-type="Sect" id="d7e287"
+                                    <div class="- topic/prolog prolog"
+                                        css:background-color="transparent"
+                                        css:border-bottom-style="none" css:border-left-style="none"
+                                        css:border-right-style="none" css:border-top-style="none"
+                                        css:color="transparent" css:display="none" css:font-size="0"
+                                        css:height="0" css:margin-bottom="0" css:margin-left="0"
+                                        css:margin-right="0" css:margin-top="0"
+                                        css:padding-bottom="0" css:padding-left="0"
+                                        css:padding-right="0" css:padding-top="0" css:width="0">
+                                        <div class="- topic/metadata metadata" css:display="none">
+                                            <div class="- topic/prodinfo prodinfo"
+                                                css:display="none">
+                                                <div class="- topic/prodname prodname"
+                                                  css:display="none">IBM Stored IQ</div>
+                                                <div class="- topic/vrmlist vrmlist"
+                                                  css:display="none">
+                                                  <div class="- topic/vrm vrm" css:display="none"
+                                                  version="7.6.0.19"/>
+                                                </div>
+                                                <div class="- topic/brand brand" css:display="none"
+                                                  >IBM</div>
+                                                <div class="- topic/prognum prognum"
+                                                  css:display="none">5724M86</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="- topic/body concept/conbody body conbody"
+                                        css:display="block" css:margin-bottom="0"
+                                        css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                        <p class="- topic/shortdesc shortdesc" css:display="block"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="0.5em"/>
+                                        <p class="- topic/p p" css:display="block"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="0.5em">IBM StoredIQ
+                                            is a virtual appliance that you deploy and configure in
+                                            a VMWare virtual host environment</p>
+                                    </div>
+                                    <article aria-labelledby="ariaid-title13"
+                                        class="- topic/topic concept/concept topic concept nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect"
+                                        id="unique_8"
+                                        nd:nd-id="Deploying_IBM_StoredIQ_Deployingthevirtualappliances"
+                                        oid="Deploying_IBM_StoredIQ_Deployingthevirtualappliances"
                                         topicrefclass="- map/topicref ">
                                         <h2 class="- topic/title title topictitle2"
                                             css:bookmark-level="2" css:bookmark-state="closed"
@@ -5537,25 +5797,243 @@
                                             css:margin-bottom="0.5em" css:margin-left="0"
                                             css:margin-right="0" css:margin-top="1.5em"
                                             css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
-                                            id="ariaid-title14"><css:bookmark-label><css:content
+                                            id="ariaid-title13"><css:bookmark-label><css:content
                                                   source="before"/><css:content source="text"
                                                 /></css:bookmark-label>Deploying the virtual
                                             appliances</h2>
-                                    </article>
-                                    <article aria-labelledby="ariaid-title15"
-                                        class="+ topic/topic pdf2-d/placeholder topic placeholder nested1"
-                                        css:display="block" css:oxy-pdf-tag-type="Sect" id="d7e288"
-                                        topicrefclass="- map/topicref ">
-                                        <h2 class="- topic/title title topictitle2"
-                                            css:bookmark-level="2" css:bookmark-state="closed"
-                                            css:display="block" css:font-size="1.7em"
-                                            css:margin-bottom="0.5em" css:margin-left="0"
-                                            css:margin-right="0" css:margin-top="1.5em"
-                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
-                                            id="ariaid-title15"><css:bookmark-label><css:content
-                                                  source="before"/><css:content source="text"
-                                                /></css:bookmark-label>Deploying IBM StoredIQ on
-                                            Microsoft Hyper-V</h2>
+                                        <div class="- topic/prolog prolog"
+                                            css:background-color="transparent"
+                                            css:border-bottom-style="none"
+                                            css:border-left-style="none"
+                                            css:border-right-style="none"
+                                            css:border-top-style="none" css:color="transparent"
+                                            css:display="none" css:font-size="0" css:height="0"
+                                            css:margin-bottom="0" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="0"
+                                            css:padding-bottom="0" css:padding-left="0"
+                                            css:padding-right="0" css:padding-top="0" css:width="0">
+                                            <div class="- topic/metadata metadata"
+                                                css:display="none">
+                                                <div class="- topic/prodinfo prodinfo"
+                                                  css:display="none">
+                                                  <div class="- topic/prodname prodname"
+                                                  css:display="none">IBM Stored IQ</div>
+                                                  <div class="- topic/vrmlist vrmlist"
+                                                  css:display="none">
+                                                  <div class="- topic/vrm vrm" css:display="none"
+                                                  version="7.6.0.19"/>
+                                                  </div>
+                                                  <div class="- topic/brand brand"
+                                                  css:display="none">IBM</div>
+                                                  <div class="- topic/prognum prognum"
+                                                  css:display="none">5724M86</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="- topic/body concept/conbody body conbody"
+                                            css:display="block" css:margin-bottom="0"
+                                            css:margin-left="0" css:margin-right="0"
+                                            css:margin-top="0">
+                                            <p class="- topic/shortdesc shortdesc"
+                                                css:display="block" css:margin-bottom="0.5em"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="0.5em"/>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em">Use
+                                                VMware vSphere Client to deploy the virtual
+                                                appliances to an ESX server. Deploy OVAs for the
+                                                gateway, the data server, and the application stack,
+                                                preferably in this order. If an Elasticsearch
+                                                cluster is also being deployed, those OVAs must be
+                                                deployed first.</p>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em">Ensure
+                                                that all prerequisites for the deployment described
+                                                in the planning section are met and that the
+                                                required software packages are available on your
+                                                local system before you start this task.</p>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em">Download
+                                                the latest version of IBM StoredIQ from either IBM
+                                                Fix Central or IBM Passport Advantage®. For
+                                                information about the package names and part numbers
+                                                and the links to the proper download locations, see
+                                                the <a class="- topic/xref xref" css:color="blue"
+                                                  css:display="inline"
+                                                  css:link="https://www.ibm.com/support/pages/download-ibm-storediq-version-76019"
+                                                  css:text-decoration="underline" format="html"
+                                                  href="https://www.ibm.com/support/pages/download-ibm-storediq-version-76019"
+                                                  scope="external" target="_blank"><u
+                                                  class="+ topic/ph hi-d/u ph u"
+                                                  css:display="inline"
+                                                  css:link="https://www.ibm.com/support/pages/download-ibm-storediq-version-76019"
+                                                  css:text-decoration="underline">download
+                                                  document.</u><css:after css:display="inline"
+                                                  css:font-style="italic"
+                                                  css:link="https://www.ibm.com/support/pages/download-ibm-storediq-version-76019"
+                                                  css:text-decoration="underline"/></a></p>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em">The
+                                                number of Elasticsearch OVAs deployed depends on the
+                                                planned size of your Elasticsearch cluster. The
+                                                default setup is a three-node cluster. Each
+                                                Elasticsearch node requires a separate OVA
+                                                deployment.</p>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em">The
+                                                number of data server OVAs deployed depends on the
+                                                number of data servers needed. Each data server
+                                                requires a separate OVA deployment.</p>
+                                            <ol class="- topic/ol ol" css:display="block"
+                                                css:list-style-type="decimal"
+                                                css:margin-bottom="1.33em" css:margin-top="1.33em">
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Connect to the ESX server or
+                                                  vCenter server.</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Open VMware vSphere
+                                                  Client.</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Select <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">File
+                                                  &gt; Deploy OVF Template.</strong></li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Within the <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">Deploy
+                                                  OVF Template</strong> wizard, complete these
+                                                  steps. <ol class="- topic/ol ol number-alpha"
+                                                  css:display="block" css:margin-bottom="0em"
+                                                  css:margin-top="0em" outputclass="number-alpha"
+                                                  type="a">
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-left="2em">Within the <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">Select
+                                                  source</strong> page, click <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">Local
+                                                  file</strong>, and then browse to and select the
+                                                  appropriate OVF. Click <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Next.</strong></li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-left="2em">Within the <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">Review
+                                                  details</strong> page, review the OVF template
+                                                  details. These storage requirements are critical
+                                                  and will be used to select a data store during
+                                                  deployment. Click <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Next</strong> to proceed.</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-left="2em">Within the <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">Select
+                                                  name and folder</strong> page, enter a name for
+                                                  the deployed template or use the default name.
+                                                  Click <strong class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Next</strong>.</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-left="2em">Within the <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">Select
+                                                  a resource page</strong>, select the resource pool
+                                                  where the deployed OVF template runs. Click
+                                                  <strong class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Next</strong>.</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-left="2em">Within the <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">Select
+                                                  storage</strong> page, select a data store on
+                                                  which to store the deployed OVF template files.
+                                                  Click <strong class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Next</strong>.</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-left="2em">Within the <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">Disk
+                                                  Format</strong> list, select the disk format to be
+                                                  deployed. Note that although <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">Thin
+                                                  Provision</strong> saves disk space, it can
+                                                  negatively affect performance. If possible, select
+                                                  <strong class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">Thick
+                                                  Provision Lazy Zeroed</strong>. Click <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Next</strong>.</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-left="2em">Within the <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Network Mapping</strong>, map the network to the
+                                                  appropriate network. Click <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Next</strong>.</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-left="2em">Within the Ready to Complete
+                                                  page, review the deployment settings. Click Finish
+                                                  to complete the Deploy OVF Template. At this
+                                                  point, you can select the Power on check box to
+                                                  turn on the VM after deployment is complete.
+                                                  <strong class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Important:</strong> If your IBM StoredIQ
+                                                  environment includes an Elasticsearch cluster, do
+                                                  not select this option when you're deploying the
+                                                  data server OVA. The Elasticsearch cluster setup
+                                                  must be complete before you run the data server
+                                                  first-boot process.</li>
+                                                  </ol></li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Repeat steps 3 and 4 for
+                                                  each OVA.</li>
+                                            </ol>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em"
+                                                >Configure the components of your IBM StoredIQ
+                                                environment in this order:</p>
+                                            <ol class="- topic/ol ol" css:display="block"
+                                                css:list-style-type="decimal"
+                                                css:margin-bottom="1.33em" css:margin-top="1.33em">
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Elasticsearch cluster (if
+                                                  applicable)</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Gateway</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">One or more data
+                                                  servers</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Application stack</li>
+                                            </ol>
+                                        </div>
                                     </article>
                                 </article>
                             </div>
@@ -5581,17 +6059,17 @@
                                 css:display="block" ditaarch:ditaarchversion="1.3"
                                 domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)"
                                 lang="en" xml:lang="en">
-                                <article aria-labelledby="ariaid-title16" break-before="true"
+                                <article aria-labelledby="ariaid-title14" break-before="true"
                                     class="+ topic/topic pdf2-d/placeholder topic placeholder nested0"
                                     css:display="block" css:margin-top="1em"
-                                    css:oxy-pdf-tag-type="Sect" id="d7e290" is-chapter="true"
-                                    topicrefclass="- map/topicref ">
+                                    css:oxy-pdf-tag-type="Sect" id="d7e408" is-chapter="true"
+                                    topicrefclass="+ map/topicref mapgroup-d/topichead ">
                                     <h1 class="- topic/title title topictitle1"
                                         css:bookmark-level="1" css:display="block"
                                         css:font-size="2em" css:margin-bottom="1em"
                                         css:margin-left="0" css:margin-right="0" css:margin-top="0"
                                         css:oxy-pdf-tag-type="H1" css:page-break-after="avoid"
-                                        id="ariaid-title16"><css:string-set name="chaptertitle"
+                                        id="ariaid-title14"><css:string-set name="chaptertitle"
                                                 ><css:text> | </css:text><css:counter name="chapter"
                                                 value="5"/><css:text> - </css:text><css:content
                                                 source="text"
@@ -5600,54 +6078,10 @@
                                             /></css:bookmark-label><css:before css:display="inline"
                                                 ><css:text>Chapter </css:text><css:counter
                                                 name="chapter" value="5"/><css:text>.
-                                            </css:text></css:before>Index</h1>
-                                </article>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </body>
-        </html>
-    </css:page-sequence>
-    <css:page-sequence page="chapter">
-        <html css:counter-reset=" page 1" css:display="block"
-            css:font-family="serif, Times, Times New Roman, Symbol, MingLiU, MS Mincho, Arial Unicode MS"
-            css:font-size="12px"
-            xtrf="file:/C:/Users/barryj.mullane/Desktop/Publication/BM-DITAPROJ/BM-DITAPROJ.ditamap">
-            <body class="wh_topic_page" css:display="block" css:font-size="11.5pt"
-                css:margin-left="auto" css:margin-right="auto">
-                <div class="wh_content_area" css:display="block">
-                    <div class="wh_topic_body" css:display="block">
-                        <div class="wh_topic_content" css:display="block">
-                            <div xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-                                cascade="merge" class="- map/map map"
-                                css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0"
-                                css:display="block" ditaarch:ditaarchversion="1.3"
-                                domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)"
-                                lang="en" xml:lang="en">
-                                <article aria-labelledby="ariaid-title17" break-before="true"
-                                    class="+ topic/topic pdf2-d/placeholder topic placeholder nested0"
-                                    css:display="block" css:margin-top="1em"
-                                    css:oxy-pdf-tag-type="Sect" id="d7e292" is-chapter="true"
-                                    topicrefclass="+ map/topicref mapgroup-d/topichead ">
-                                    <h1 class="- topic/title title topictitle1"
-                                        css:bookmark-level="1" css:display="block"
-                                        css:font-size="2em" css:margin-bottom="1em"
-                                        css:margin-left="0" css:margin-right="0" css:margin-top="0"
-                                        css:oxy-pdf-tag-type="H1" css:page-break-after="avoid"
-                                        id="ariaid-title17"><css:string-set name="chaptertitle"
-                                                ><css:text> | </css:text><css:counter name="chapter"
-                                                value="6"/><css:text> - </css:text><css:content
-                                                source="text"
-                                                /></css:string-set><css:bookmark-label><css:content
-                                                source="before"/><css:content source="text"
-                                            /></css:bookmark-label><css:before css:display="inline"
-                                                ><css:text>Chapter </css:text><css:counter
-                                                name="chapter" value="6"/><css:text>.
                                             </css:text></css:before>Glossary</h1>
-                                    <article aria-labelledby="ariaid-title18"
+                                    <article aria-labelledby="ariaid-title15"
                                         class="+ topic/topic pdf2-d/placeholder topic placeholder nested1"
-                                        css:display="block" css:oxy-pdf-tag-type="Sect" id="d7e293"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect" id="d7e409"
                                         topicrefclass="+ map/topicref mapgroup-d/topichead ">
                                         <h2 class="- topic/title title topictitle2"
                                             css:bookmark-level="2" css:bookmark-state="closed"
@@ -5655,13 +6089,13 @@
                                             css:margin-bottom="0.5em" css:margin-left="0"
                                             css:margin-right="0" css:margin-top="1.5em"
                                             css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
-                                            id="ariaid-title18"><css:bookmark-label><css:content
+                                            id="ariaid-title15"><css:bookmark-label><css:content
                                                   source="before"/><css:content source="text"
                                                 /></css:bookmark-label>a</h2>
                                     </article>
-                                    <article aria-labelledby="ariaid-title19"
+                                    <article aria-labelledby="ariaid-title16"
                                         class="+ topic/topic pdf2-d/placeholder topic placeholder nested1"
-                                        css:display="block" css:oxy-pdf-tag-type="Sect" id="d7e332"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect" id="d7e448"
                                         topicrefclass="+ map/topicref mapgroup-d/topichead ">
                                         <h2 class="- topic/title title topictitle2"
                                             css:bookmark-level="2" css:bookmark-state="closed"
@@ -5669,13 +6103,13 @@
                                             css:margin-bottom="0.5em" css:margin-left="0"
                                             css:margin-right="0" css:margin-top="1.5em"
                                             css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
-                                            id="ariaid-title19"><css:bookmark-label><css:content
+                                            id="ariaid-title16"><css:bookmark-label><css:content
                                                   source="before"/><css:content source="text"
                                                 /></css:bookmark-label>c</h2>
                                     </article>
-                                    <article aria-labelledby="ariaid-title20"
+                                    <article aria-labelledby="ariaid-title17"
                                         class="+ topic/topic pdf2-d/placeholder topic placeholder nested1"
-                                        css:display="block" css:oxy-pdf-tag-type="Sect" id="d7e371"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect" id="d7e487"
                                         topicrefclass="+ map/topicref mapgroup-d/topichead ">
                                         <h2 class="- topic/title title topictitle2"
                                             css:bookmark-level="2" css:bookmark-state="closed"
@@ -5683,7 +6117,7 @@
                                             css:margin-bottom="0.5em" css:margin-left="0"
                                             css:margin-right="0" css:margin-top="1.5em"
                                             css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
-                                            id="ariaid-title20"><css:bookmark-label><css:content
+                                            id="ariaid-title17"><css:bookmark-label><css:content
                                                   source="before"/><css:content source="text"
                                                 /></css:bookmark-label>d</h2>
                                     </article>
@@ -5711,25 +6145,25 @@
                                 css:display="block" ditaarch:ditaarchversion="1.3"
                                 domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)"
                                 lang="en" xml:lang="en">
-                                <article aria-labelledby="ariaid-title21" break-before="true"
+                                <article aria-labelledby="ariaid-title18" break-before="true"
                                     class="+ topic/topic pdf2-d/placeholder topic placeholder nested0"
                                     css:display="block" css:margin-top="1em"
-                                    css:oxy-pdf-tag-type="Sect" id="d7e430" is-chapter="true"
+                                    css:oxy-pdf-tag-type="Sect" id="d7e546" is-chapter="true"
                                     topicrefclass="+ map/topicref mapgroup-d/topichead ">
                                     <h1 class="- topic/title title topictitle1"
                                         css:bookmark-level="1" css:display="block"
                                         css:font-size="2em" css:margin-bottom="1em"
                                         css:margin-left="0" css:margin-right="0" css:margin-top="0"
                                         css:oxy-pdf-tag-type="H1" css:page-break-after="avoid"
-                                        id="ariaid-title21"><css:string-set name="chaptertitle"
+                                        id="ariaid-title18"><css:string-set name="chaptertitle"
                                                 ><css:text> | </css:text><css:counter name="chapter"
-                                                value="7"/><css:text> - </css:text><css:content
+                                                value="6"/><css:text> - </css:text><css:content
                                                 source="text"
                                                 /></css:string-set><css:bookmark-label><css:content
                                                 source="before"/><css:content source="text"
                                             /></css:bookmark-label><css:before css:display="inline"
                                                 ><css:text>Chapter </css:text><css:counter
-                                                name="chapter" value="7"/><css:text>.
+                                                name="chapter" value="6"/><css:text>.
                                             </css:text></css:before>g</h1>
                                 </article>
                             </div>
@@ -5755,25 +6189,25 @@
                                 css:display="block" ditaarch:ditaarchversion="1.3"
                                 domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)"
                                 lang="en" xml:lang="en">
-                                <article aria-labelledby="ariaid-title22" break-before="true"
+                                <article aria-labelledby="ariaid-title19" break-before="true"
                                     class="+ topic/topic pdf2-d/placeholder topic placeholder nested0"
                                     css:display="block" css:margin-top="1em"
-                                    css:oxy-pdf-tag-type="Sect" id="d7e451" is-chapter="true"
+                                    css:oxy-pdf-tag-type="Sect" id="d7e567" is-chapter="true"
                                     topicrefclass="+ map/topicref mapgroup-d/topichead ">
                                     <h1 class="- topic/title title topictitle1"
                                         css:bookmark-level="1" css:display="block"
                                         css:font-size="2em" css:margin-bottom="1em"
                                         css:margin-left="0" css:margin-right="0" css:margin-top="0"
                                         css:oxy-pdf-tag-type="H1" css:page-break-after="avoid"
-                                        id="ariaid-title22"><css:string-set name="chaptertitle"
+                                        id="ariaid-title19"><css:string-set name="chaptertitle"
                                                 ><css:text> | </css:text><css:counter name="chapter"
-                                                value="8"/><css:text> - </css:text><css:content
+                                                value="7"/><css:text> - </css:text><css:content
                                                 source="text"
                                                 /></css:string-set><css:bookmark-label><css:content
                                                 source="before"/><css:content source="text"
                                             /></css:bookmark-label><css:before css:display="inline"
                                                 ><css:text>Chapter </css:text><css:counter
-                                                name="chapter" value="8"/><css:text>.
+                                                name="chapter" value="7"/><css:text>.
                                             </css:text></css:before>i</h1>
                                 </article>
                             </div>
@@ -5801,7 +6235,7 @@
                                 lang="en" xml:lang="en">
                                 <div class="- index/groups groups" css:bookmark-level="1"
                                     css:counter-reset="page 1" css:display="block"
-                                    css:oxy-pdf-tag-type="Index" id="d30e2279"/>
+                                    css:oxy-pdf-tag-type="Index" id="d30e2637"/>
                             </div>
                         </div>
                     </div>
@@ -5867,16 +6301,16 @@
                                             <div class="- index/refid refid" css:display="block"
                                                 indexid="indexid-1112868127" value="data server:">
                                                 <div class="- index/link link" css:display="inline"
-                                                  css:link="#d30e751" href="#d30e751"><css:before
-                                                  css:display="inline" css:link="#d30e751"
+                                                  css:link="#d30e822" href="#d30e822"><css:before
+                                                  css:display="inline" css:link="#d30e822"
                                                   ><css:text> </css:text></css:before><css:content-on-element><css:target-counter
-                                                  url-fragment="d30e751"/><css:text>,
-                                                  </css:text></css:content-on-element> [d30e751] </div>
+                                                  url-fragment="d30e822"/><css:text>,
+                                                  </css:text></css:content-on-element> [d30e822] </div>
                                                 <div class="- index/link link" css:display="inline"
-                                                  css:link="#d30e1320" href="#d30e1320"
+                                                  css:link="#d30e1358" href="#d30e1358"
                                                   ><css:content-on-element><css:target-counter
-                                                  url-fragment="d30e1320"/></css:content-on-element>
-                                                  [d30e1320] </div>
+                                                  url-fragment="d30e1358"/></css:content-on-element>
+                                                  [d30e1358] </div>
                                             </div>
                                         </div>
                                         <div class="- index/entry entry" css:display="block"
@@ -5887,16 +6321,16 @@
                                                 indexid="indexid-654787858"
                                                 value="DataServer - Classic:">
                                                 <div class="- index/link link" css:display="inline"
-                                                  css:link="#d30e762" href="#d30e762"><css:before
-                                                  css:display="inline" css:link="#d30e762"
+                                                  css:link="#d30e833" href="#d30e833"><css:before
+                                                  css:display="inline" css:link="#d30e833"
                                                   ><css:text> </css:text></css:before><css:content-on-element><css:target-counter
-                                                  url-fragment="d30e762"/><css:text>,
-                                                  </css:text></css:content-on-element> [d30e762] </div>
+                                                  url-fragment="d30e833"/><css:text>,
+                                                  </css:text></css:content-on-element> [d30e833] </div>
                                                 <div class="- index/link link" css:display="inline"
-                                                  css:link="#d30e1331" href="#d30e1331"
+                                                  css:link="#d30e1369" href="#d30e1369"
                                                   ><css:content-on-element><css:target-counter
-                                                  url-fragment="d30e1331"/></css:content-on-element>
-                                                  [d30e1331] </div>
+                                                  url-fragment="d30e1369"/></css:content-on-element>
+                                                  [d30e1369] </div>
                                             </div>
                                         </div>
                                         <div class="- index/entry entry" css:display="block"
@@ -5907,16 +6341,16 @@
                                                 indexid="indexid-1955124227"
                                                 value="DataServer - Distributed:">
                                                 <div class="- index/link link" css:display="inline"
-                                                  css:link="#d30e767" href="#d30e767"><css:before
-                                                  css:display="inline" css:link="#d30e767"
+                                                  css:link="#d30e838" href="#d30e838"><css:before
+                                                  css:display="inline" css:link="#d30e838"
                                                   ><css:text> </css:text></css:before><css:content-on-element><css:target-counter
-                                                  url-fragment="d30e767"/><css:text>,
-                                                  </css:text></css:content-on-element> [d30e767] </div>
+                                                  url-fragment="d30e838"/><css:text>,
+                                                  </css:text></css:content-on-element> [d30e838] </div>
                                                 <div class="- index/link link" css:display="inline"
-                                                  css:link="#d30e1336" href="#d30e1336"
+                                                  css:link="#d30e1374" href="#d30e1374"
                                                   ><css:content-on-element><css:target-counter
-                                                  url-fragment="d30e1336"/></css:content-on-element>
-                                                  [d30e1336] </div>
+                                                  url-fragment="d30e1374"/></css:content-on-element>
+                                                  [d30e1374] </div>
                                             </div>
                                         </div>
                                     </div>
@@ -5930,16 +6364,16 @@
                                             <div class="- index/refid refid" css:display="block"
                                                 indexid="indexid1876524861" value="Elasticsearch:">
                                                 <div class="- index/link link" css:display="inline"
-                                                  css:link="#d30e819" href="#d30e819"><css:before
-                                                  css:display="inline" css:link="#d30e819"
+                                                  css:link="#d30e890" href="#d30e890"><css:before
+                                                  css:display="inline" css:link="#d30e890"
                                                   ><css:text> </css:text></css:before><css:content-on-element><css:target-counter
-                                                  url-fragment="d30e819"/><css:text>,
-                                                  </css:text></css:content-on-element> [d30e819] </div>
+                                                  url-fragment="d30e890"/><css:text>,
+                                                  </css:text></css:content-on-element> [d30e890] </div>
                                                 <div class="- index/link link" css:display="inline"
-                                                  css:link="#d30e1388" href="#d30e1388"
+                                                  css:link="#d30e1426" href="#d30e1426"
                                                   ><css:content-on-element><css:target-counter
-                                                  url-fragment="d30e1388"/></css:content-on-element>
-                                                  [d30e1388] </div>
+                                                  url-fragment="d30e1426"/></css:content-on-element>
+                                                  [d30e1426] </div>
                                             </div>
                                         </div>
                                     </div>
@@ -5963,18 +6397,18 @@
                                                   indexid="indexid-93158657"
                                                   value="IBM StoredIQ Administrator,:Data Workbench:">
                                                   <div class="- index/link link"
-                                                  css:display="inline" css:link="#d30e798"
-                                                  href="#d30e798"><css:before css:display="inline"
-                                                  css:link="#d30e798"
+                                                  css:display="inline" css:link="#d30e869"
+                                                  href="#d30e869"><css:before css:display="inline"
+                                                  css:link="#d30e869"
                                                   ><css:text> </css:text></css:before><css:content-on-element><css:target-counter
-                                                  url-fragment="d30e798"/><css:text>,
-                                                  </css:text></css:content-on-element> [d30e798] </div>
+                                                  url-fragment="d30e869"/><css:text>,
+                                                  </css:text></css:content-on-element> [d30e869] </div>
                                                   <div class="- index/link link"
-                                                  css:display="inline" css:link="#d30e1367"
-                                                  href="#d30e1367"
+                                                  css:display="inline" css:link="#d30e1405"
+                                                  href="#d30e1405"
                                                   ><css:content-on-element><css:target-counter
-                                                  url-fragment="d30e1367"/></css:content-on-element>
-                                                  [d30e1367] </div>
+                                                  url-fragment="d30e1405"/></css:content-on-element>
+                                                  [d30e1405] </div>
                                                 </div>
                                             </div>
                                             <div class="- index/entry entry" css:display="block"
@@ -5985,18 +6419,18 @@
                                                   indexid="indexid-43817839"
                                                   value="IBM StoredIQ Administrator,:IBM StoredIQ:">
                                                   <div class="- index/link link"
-                                                  css:display="inline" css:link="#d30e794"
-                                                  href="#d30e794"><css:before css:display="inline"
-                                                  css:link="#d30e794"
+                                                  css:display="inline" css:link="#d30e865"
+                                                  href="#d30e865"><css:before css:display="inline"
+                                                  css:link="#d30e865"
                                                   ><css:text> </css:text></css:before><css:content-on-element><css:target-counter
-                                                  url-fragment="d30e794"/><css:text>,
-                                                  </css:text></css:content-on-element> [d30e794] </div>
+                                                  url-fragment="d30e865"/><css:text>,
+                                                  </css:text></css:content-on-element> [d30e865] </div>
                                                   <div class="- index/link link"
-                                                  css:display="inline" css:link="#d30e1363"
-                                                  href="#d30e1363"
+                                                  css:display="inline" css:link="#d30e1401"
+                                                  href="#d30e1401"
                                                   ><css:content-on-element><css:target-counter
-                                                  url-fragment="d30e1363"/></css:content-on-element>
-                                                  [d30e1363] </div>
+                                                  url-fragment="d30e1401"/></css:content-on-element>
+                                                  [d30e1401] </div>
                                                 </div>
                                             </div>
                                             <div class="- index/entry entry" css:display="block"
@@ -6007,18 +6441,18 @@
                                                   indexid="indexid-1214980740"
                                                   value="IBM StoredIQ Administrator, ,:IBM StoredIQ Insights:">
                                                   <div class="- index/link link"
-                                                  css:display="inline" css:link="#d30e802"
-                                                  href="#d30e802"><css:before css:display="inline"
-                                                  css:link="#d30e802"
+                                                  css:display="inline" css:link="#d30e873"
+                                                  href="#d30e873"><css:before css:display="inline"
+                                                  css:link="#d30e873"
                                                   ><css:text> </css:text></css:before><css:content-on-element><css:target-counter
-                                                  url-fragment="d30e802"/><css:text>,
-                                                  </css:text></css:content-on-element> [d30e802] </div>
+                                                  url-fragment="d30e873"/><css:text>,
+                                                  </css:text></css:content-on-element> [d30e873] </div>
                                                   <div class="- index/link link"
-                                                  css:display="inline" css:link="#d30e1371"
-                                                  href="#d30e1371"
+                                                  css:display="inline" css:link="#d30e1409"
+                                                  href="#d30e1409"
                                                   ><css:content-on-element><css:target-counter
-                                                  url-fragment="d30e1371"/></css:content-on-element>
-                                                  [d30e1371] </div>
+                                                  url-fragment="d30e1409"/></css:content-on-element>
+                                                  [d30e1409] </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -6041,18 +6475,18 @@
                                                   indexid="indexid-257758806"
                                                   value="IBM® Content classification's classification model into the IBM:StoredIQ infoset-generation process:">
                                                   <div class="- index/link link"
-                                                  css:display="inline" css:link="#d30e921"
-                                                  href="#d30e921"><css:before css:display="inline"
-                                                  css:link="#d30e921"
+                                                  css:display="inline" css:link="#d30e1004"
+                                                  href="#d30e1004"><css:before css:display="inline"
+                                                  css:link="#d30e1004"
                                                   ><css:text> </css:text></css:before><css:content-on-element><css:target-counter
-                                                  url-fragment="d30e921"/><css:text>,
-                                                  </css:text></css:content-on-element> [d30e921] </div>
+                                                  url-fragment="d30e1004"/><css:text>,
+                                                  </css:text></css:content-on-element> [d30e1004] </div>
                                                   <div class="- index/link link"
-                                                  css:display="inline" css:link="#d30e1490"
-                                                  href="#d30e1490"
+                                                  css:display="inline" css:link="#d30e1540"
+                                                  href="#d30e1540"
                                                   ><css:content-on-element><css:target-counter
-                                                  url-fragment="d30e1490"/></css:content-on-element>
-                                                  [d30e1490] </div>
+                                                  url-fragment="d30e1540"/></css:content-on-element>
+                                                  [d30e1540] </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -6067,16 +6501,16 @@
                                             <div class="- index/refid refid" css:display="block"
                                                 indexid="indexid-636921737" value="System infoset:">
                                                 <div class="- index/link link" css:display="inline"
-                                                  css:link="#d30e881" href="#d30e881"><css:before
-                                                  css:display="inline" css:link="#d30e881"
+                                                  css:link="#d30e964" href="#d30e964"><css:before
+                                                  css:display="inline" css:link="#d30e964"
                                                   ><css:text> </css:text></css:before><css:content-on-element><css:target-counter
-                                                  url-fragment="d30e881"/><css:text>,
-                                                  </css:text></css:content-on-element> [d30e881] </div>
+                                                  url-fragment="d30e964"/><css:text>,
+                                                  </css:text></css:content-on-element> [d30e964] </div>
                                                 <div class="- index/link link" css:display="inline"
-                                                  css:link="#d30e1450" href="#d30e1450"
+                                                  css:link="#d30e1500" href="#d30e1500"
                                                   ><css:content-on-element><css:target-counter
-                                                  url-fragment="d30e1450"/></css:content-on-element>
-                                                  [d30e1450] </div>
+                                                  url-fragment="d30e1500"/></css:content-on-element>
+                                                  [d30e1500] </div>
                                             </div>
                                         </div>
                                     </div>

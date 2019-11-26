@@ -6,7 +6,7 @@
     <conbody>
         <p>IBM</p>
         <prereq>
-            Note Before using this information and the product it supports, read the information</prereq>
+            <NoteBefore using this information and the product it supports, read the information</prereq>
         Notices<xref> href="notices>
                 is information was developed for products and services offered in the U.S.A. This material may be
                 available from IBM in other languages. However, you may be required to own a copy of the product or

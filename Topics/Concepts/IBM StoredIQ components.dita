@@ -62,10 +62,16 @@
         </section>
         <section>
             <title>IBM StoredIQ Data Server</title>
-            <p>IBM StoredIQ Data Server user interface provides access to data server functionality. It allows
-                administrators to view the dashboard and see the status of the jobs and system details. Administrators 
-                can manage information about servers and conduct various configurations on the system and application
-                settings.</p>
+            <dl>
+                <dlentry audience="administrator">
+                    <dt>admin</dt>
+                    <dd><p>IBM StoredIQ Data Server user interface provides access to data server functionality. It allows
+                        administrators to view the dashboard and see the status of the jobs and system details. Administrators 
+                        can manage information about servers and conduct various configurations on the system and application
+                        settings.</p></dd>
+                </dlentry>
+            </dl>
+            <image conkeyref=""></image>
             <image href="IBM_STOREDIQ.GIF" align="center"/>
         </section>
         <section>
